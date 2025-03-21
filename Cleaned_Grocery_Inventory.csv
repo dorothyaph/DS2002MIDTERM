@@ -1,0 +1,991 @@
+Product_ID,Product_Name,Catagory,Supplier_Name,Supplier_ID,Warehouse_Location,Status,Date_Received,Last_Order_Date,Expiration_Date,Stock_Quantity,Reorder_Level,Reorder_Quantity,Unit_Price,Sales_Volume,Inventory_Turnover_Rate,percentage
+290176255,Bell Pepper,Fruits & Vegetables,Eimbee,433482450,20 Pennsylvania Parkway,discontinued,2024-03-01,2025-01-06,2025-01-31,46,64,17,4.6,96,55,1.96
+795698856,Vegetable Oil,Oils & Fats,Digitube,048547165,03643 Oakridge Lane,backordered,2024-04-01,2024-05-19,2024-06-11,51,87,86,2.0,24,83,0.91
+281462641,Parmesan Cheese,Dairy,BlogXS,829950739,73 Graedel Street,discontinued,2024-04-01,2024-12-21,2024-04-08,38,67,66,12.0,35,24,1.36
+115819869,Carrot,Fruits & Vegetables,Avaveo,228673079,44801 Myrtle Center,discontinued,2024-05-01,2024-12-12,2024-09-26,51,60,98,1.5,44,95,1.36
+132024809,Garlic,Fruits & Vegetables,Katz,242817685,6195 Monterey Center,discontinued,2024-05-01,2024-07-28,2024-05-20,27,22,89,7.0,91,77,2.17
+701452550,Lemon,Fruits & Vegetables,Yata,758494524,5141 Anniversary Crossing,backordered,2024-05-01,2024-08-07,2024-08-06,91,6,37,2.4,38,70,2.56
+106268536,Coconut Sugar,Grains & Pulses,Lazz,232743305,38583 2nd Pass,continued,2024-05-01,2025-01-29,2024-03-30,17,85,74,5.0,76,89,2.34
+428799478,Anchovies,Seafood,Zoonder,009000119,86 Porter Junction,discontinued,2024-06-01,2025-02-23,2024-08-22,81,22,20,10.0,95,77,2.13
+823805378,Cheese,Dairy,Oozz,963533049,05518 Saint Paul Street,continued,2024-06-01,2024-06-03,2024-03-07,78,24,31,9.0,60,41,2.74
+232658144,Yogurt,Dairy,Jaxnation,315241628,14042 Dottie Avenue,backordered,2024-06-01,2024-11-09,2024-10-25,55,50,56,1.7,62,26,2.56
+623939939,Cheddar Cheese,Dairy,Gabcube,938779384,5 Oxford Pass,continued,2024-06-01,2024-06-02,2024-10-05,60,9,89,9.0,95,63,2.83
+903439640,Avocado Oil,Oils & Fats,Dabtype,549199424,3622 Anhalt Lane,backordered,2024-07-01,2024-04-06,2024-10-06,53,89,100,10.0,22,83,2.79
+368995324,Orange,Fruits & Vegetables,Flashdog,026563112,3 Bashford Court,backordered,2024-08-01,2024-07-05,2024-12-19,94,58,17,2.9,57,74,2.36
+415383129,Digestive Biscuit,Bakery,Devshare,915899007,2 Carioca Crossing,backordered,2024-09-01,2024-03-17,2024-07-31,77,79,65,4.0,62,75,2.69
+478438207,Cauliflower,Fruits & Vegetables,Cogilith,558389088,01 Northfield Road,continued,2024-09-01,2024-04-10,2024-12-27,34,92,26,2.5,28,71,2.61
+940712261,Pear,Fruits & Vegetables,Roodel,257062146,2004 Cody Plaza,discontinued,2024-09-01,2024-03-02,2024-03-30,79,37,98,4.5,33,20,2.54
+129983882,Egg (Turkey),Dairy,Bluezoom,061519076,94862 Beilfuss Terrace,backordered,2024-10-01,2024-08-17,2024-05-26,76,54,76,2.5,69,27,2.58
+361274273,Ricotta Cheese,Dairy,Skimia,057196858,10342 Division Place,continued,2024-10-01,2024-07-03,2024-07-31,50,46,38,6.2,88,70,2.32
+131442169,Eggplant,Fruits & Vegetables,Blogpad,117425033,52 Namekagon Junction,backordered,2024-10-01,2024-12-01,2024-09-07,25,62,11,3.0,57,98,2.67
+869786666,Whole Wheat Flour,Grains & Pulses,Dabjam,439792253,21343 Brentwood Circle,backordered,2024-10-01,2024-07-26,2024-09-15,38,43,28,2.7,34,54,2.61
+406819981,Arabica Coffee,Beverages,Feedmix,544702479,36 3rd Place,discontinued,2024-11-01,2024-05-29,2024-05-08,45,77,2,20.0,85,1,2.55
+139626263,Sweet Potato,Fruits & Vegetables,Trupe,260615253,7015 Ramsey Lane,continued,2024-12-01,2024-12-23,2024-11-18,49,1,28,2.0,97,95,2.56
+100026494,Mango,Fruits & Vegetables,Meevee,475097282,48 Vahlen Place,backordered,2024-03-02,2024-07-08,2024-11-11,89,92,62,4.8,46,11,2.57
+297418132,Kale,Fruits & Vegetables,Blogpad,493844540,85 Farwell Parkway,backordered,2024-03-02,2024-07-14,2024-06-03,47,22,69,4.0,26,59,2.62
+308063823,Jasmine Rice,Grains & Pulses,Topicware,364513173,07 Pankratz Point,continued,2024-03-02,2024-07-04,2024-03-06,53,26,3,4.75,100,94,2.53
+710746292,Sourdough Bread,Bakery,Plajo,422014495,338 Annamark Court,discontinued,2024-04-02,2024-06-10,2024-10-17,65,79,49,4.0,100,9,2.5
+957384658,Green Coffee,Beverages,Skyndu,674043362,35 Golf Course Alley,backordered,2024-04-02,2024-11-26,2024-10-30,90,68,74,12.0,81,26,2.43
+551544728,Arabica Coffee,Beverages,Yotz,334667894,96 Westridge Junction,backordered,2024-04-02,2025-01-07,2024-03-29,65,63,41,20.0,28,26,2.58
+462553073,Tilapia,Seafood,Vinder,682309130,57 Eastwood Junction,continued,2024-05-02,2025-01-06,2024-07-11,30,42,8,7.0,48,23,2.57
+956400293,Arborio Rice,Grains & Pulses,Geba,435752151,31 Sullivan Hill,continued,2024-05-02,2024-11-02,2025-02-07,34,32,22,4.5,42,27,2.45
+452504679,Bread Flour,Grains & Pulses,Dazzlesphere,803284990,49148 Meadow Ridge Way,backordered,2024-05-02,2024-11-23,2024-07-05,54,78,81,1.5,41,63,2.36
+038333577,Cucumber,Fruits & Vegetables,Kanoodle,870326971,38 Killdeer Point,continued,2024-05-02,2024-08-20,2024-10-16,67,14,25,1.8,81,77,2.34
+089613009,Cheese,Dairy,Eimbee,418255869,01 Gateway Plaza,backordered,2024-06-02,2024-12-19,2024-09-08,50,14,6,9.2,60,72,2.22
+204054865,Milk,Dairy,Centimia,160197101,36483 Burning Wood Pass,backordered,2024-06-02,2024-11-05,2024-09-18,13,39,98,0.9,46,46,1.99
+493779731,Lime,Fruits & Vegetables,Livefish,568235908,3 Meadow Valley Court,backordered,2024-06-02,2024-10-03,2024-04-19,18,8,68,2.0,54,45,1.99
+398102042,Rice Flour,Grains & Pulses,Quatz,656209866,47817 Oneill Park,continued,2024-06-02,2025-01-25,2024-09-05,24,2,49,2.0,98,82,1.9
+538059523,Sourdough Bread,Bakery,Rhyloo,998640256,94 Mallory Center,continued,2024-07-02,2024-03-19,2024-05-14,40,30,65,4.5,54,29,1.84
+143055348,Cheese,Dairy,Shuffledrive,710926845,19 Shoshone Circle,continued,2024-08-02,2024-10-12,2024-03-20,53,63,2,9.0,56,95,1.83
+514595630,Sour Cream,Dairy,Skyvu,295673732,805 Center Parkway,continued,2024-08-02,2024-09-29,2024-12-14,11,30,4,4.0,84,4,1.77
+881835781,Whole Wheat Bread,Bakery,Lazz,492471217,46 Delaware Place,backordered,2024-08-02,2024-08-24,2024-12-27,17,63,3,3.5,93,26,1.66
+417359837,Robusta Coffee,Beverages,Devpulse,354627569,2374 Chive Court,discontinued,2024-08-02,2024-08-28,2024-09-01,14,77,78,10.0,32,24,1.52
+889770175,Chocolate Biscuit,Bakery,Yodo,580873463,7561 5th Terrace,continued,2024-08-02,2024-03-21,2024-07-19,100,1,26,5.0,47,79,1.32
+663272821,Palm Oil,Oils & Fats,Skipstorm,825257224,703 Hermina Center,continued,2024-08-02,2024-04-10,2024-05-27,67,57,36,1.8,78,60,1.21
+081143922,Anchovies,Seafood,Camido,194187213,709 Vidon Avenue,discontinued,2024-09-02,2024-02-25,2025-02-15,60,64,36,10.0,34,48,1.14
+950902788,Sesame Oil,Oils & Fats,Dabtype,957156047,0313 Rockefeller Street,discontinued,2024-09-02,2024-04-05,2024-08-26,45,7,58,6.5,86,77,0.99
+266903784,Lettuce,Fruits & Vegetables,Fadeo,704636597,19069 Cordelia Drive,continued,2024-10-02,2024-10-14,2024-04-06,58,5,1,2.0,53,80,0.8
+467538430,Feta Cheese,Dairy,Rhynyx,350429391,60356 Derek Lane,discontinued,2024-10-02,2024-11-19,2024-08-05,98,77,7,7.0,92,29,0.62
+159057750,Apricot,Fruits & Vegetables,Skinix,481761622,36687 Maple Avenue,backordered,2024-12-02,2025-01-31,2024-09-29,42,61,52,5.0,86,99,0.47
+118918213,Peanut Oil,Oils & Fats,Tagopia,257415987,13 Westport Hill,discontinued,2024-12-02,2024-12-12,2024-11-13,38,62,47,4.0,41,34,0.37
+828117988,Olive Oil,Oils & Fats,Realmix,417729238,65 Chinook Circle,discontinued,2024-03-03,2024-06-13,2024-12-13,36,3,54,6.0,74,8,0.21
+317464951,Whole Wheat Flour,Grains & Pulses,Gigaclub,702120990,759 Waywood Court,continued,2024-04-03,2024-05-20,2024-09-06,67,60,21,2.75,30,6,89.0
+973007511,Egg (Duck),Dairy,Katz,476872255,45190 Fordem Court,backordered,2024-04-03,2024-07-17,2024-03-21,37,53,61,1.0,90,89,80.0
+883042855,Pineapple,Fruits & Vegetables,Brainverse,595702020,0 Delladonna Place,continued,2024-04-03,2025-01-24,2025-02-12,20,51,33,3.5,80,41,1.0
+530082419,Jasmine Rice,Grains & Pulses,Skyba,868416074,63 Debra Park,discontinued,2024-04-03,2024-04-10,2024-05-27,62,36,96,4.75,31,25,49.0
+763404432,Cucumber,Fruits & Vegetables,Brainverse,799154185,157 David Center,backordered,2024-05-03,2024-03-28,2024-03-06,19,36,72,1.75,31,81,19.0
+260109519,Trout,Seafood,Blogtag,288374164,4508 Shopko Trail,continued,2024-05-03,2024-11-26,2025-01-09,29,72,96,12.0,85,52,-161.0
+089408578,Onion,Fruits & Vegetables,Oba,376861726,74 Menomonie Point,discontinued,2024-05-03,2024-10-04,2024-11-22,34,29,65,2.0,90,23,39.0
+543749986,Cream,Dairy,Oyondu,338184917,74997 Katie Terrace,discontinued,2024-06-03,2024-10-22,2024-03-21,92,52,80,2.5,72,96,74.0
+676259704,Sardines,Seafood,Eayo,134751009,7819 Fallview Park,discontinued,2024-06-03,2024-09-26,2024-07-18,33,18,92,6.0,98,56,-33.0
+566356764,Sourdough Bread,Bakery,Avamba,202576927,744 Green Center,backordered,2024-06-03,2025-01-16,2024-08-05,12,59,62,4.5,75,92,43.0
+104450741,Anchovies,Seafood,Mybuzz,824707146,31 Loomis Park,continued,2024-06-03,2024-07-11,2024-03-31,83,17,39,10.0,33,20,-23.0
+765844790,Peanut Oil,Oils & Fats,Twitterwire,582131146,1170 Shasta Circle,backordered,2024-06-03,2024-11-04,2025-01-01,21,52,80,4.0,49,37,39.0
+574371828,Plum,Fruits & Vegetables,Topicstorm,542264308,15068 Scoville Court,backordered,2024-07-03,2024-10-11,2024-10-05,37,30,74,4.0,62,25,24.0
+627776010,Sushi Rice,Grains & Pulses,Katz,409147156,5743 Superior Place,backordered,2024-07-03,2024-03-06,2024-11-05,77,20,37,4.25,42,19,60.0
+069553428,Black Rice,Grains & Pulses,Vinder,540312945,3296 Walton Court,backordered,2024-08-03,2024-06-10,2024-09-22,30,38,83,6.0,31,34,55.0
+047580410,Wild Rice,Grains & Pulses,Wordpedia,562312524,5 Toban Circle,discontinued,2024-08-03,2024-08-16,2024-05-02,26,21,47,10.0,40,59,-10.0
+066555498,Wild Rice,Grains & Pulses,Kayveo,895743430,8569 Bashford Court,backordered,2024-08-03,2024-07-09,2024-09-28,72,82,52,9.75,51,95,-48.0
+764017083,Pomegranate,Fruits & Vegetables,Meeveo,291560691,31892 Pennsylvania Street,continued,2024-09-03,2024-10-03,2024-07-31,59,79,87,6.0,47,18,-86.0
+304292162,Black Rice,Grains & Pulses,Npath,051007102,6382 Anniversary Pass,discontinued,2024-10-03,2024-12-06,2025-01-15,34,96,76,6.15,90,34,62.0
+497300159,Cream,Dairy,Riffpedia,627668232,09189 2nd Drive,continued,2024-10-03,2024-12-10,2024-08-26,82,3,82,2.4,48,31,62.0
+317456850,Cabbage,Fruits & Vegetables,Lajo,962152767,081 Jana Lane,continued,2024-10-03,2024-10-24,2024-11-01,94,90,12,0.9,98,71,35.0
+694685468,Sourdough Bread,Bakery,Vinte,370996976,72083 Acker Crossing,continued,2024-11-03,2024-06-10,2024-11-26,59,78,6,4.5,32,3,28.0
+686364774,Carrot,Fruits & Vegetables,Gevee,404360171,7744 Oxford Pass,continued,2024-11-03,2024-08-30,2025-02-19,18,50,77,1.45,44,19,91.0
+211206238,All-Purpose Flour,Grains & Pulses,Dabjam,862924587,050 Mcbride Avenue,discontinued,2024-12-03,2024-05-26,2024-09-05,55,33,14,1.75,34,62,57.0
+929958689,Cheddar Cheese,Dairy,Wordify,186827828,1 Merchant Circle,backordered,2024-12-03,2024-10-17,2024-03-06,31,65,94,9.0,63,7,-82.0
+150458444,Green Coffee,Beverages,Aibox,291432001,97 Thierer Terrace,discontinued,2024-03-04,2024-07-12,2024-03-27,27,12,93,12.0,88,83,89.0
+735676194,Whipped Cream,Dairy,Yakitri,819277236,069 Basil Center,continued,2024-03-04,2024-12-10,2024-09-08,76,81,85,4.0,65,68,6.0
+482428445,Plum,Fruits & Vegetables,Mybuzz,849413034,29 Vera Drive,discontinued,2024-03-04,2024-06-15,2024-06-24,40,3,5,4.0,45,69,-5.0
+335079886,Pineapple,Fruits & Vegetables,Quinu,114453951,0584 Lindbergh Alley,continued,2024-04-04,2024-08-19,2024-06-27,68,25,16,3.5,25,83,-53.0
+800256757,Grapes,Fruits & Vegetables,Thoughtmix,496083851,183 Algoma Trail,discontinued,2024-04-04,2024-11-29,2025-01-01,59,29,100,5.5,74,16,-232.0
+362969609,Sunflower Oil,Oils & Fats,Photofeed,460411131,7 Rutledge Pass,backordered,2024-05-04,2024-06-24,2024-12-01,24,35,14,2.5,91,71,78.0
+560548664,Lemon,Fruits & Vegetables,Centimia,532471844,01 Straubel Hill,discontinued,2024-05-04,2024-03-25,2024-03-03,59,82,69,2.45,30,34,22.0
+644784745,Lemon,Fruits & Vegetables,Mydo,367808625,208 Miller Court,continued,2024-06-04,2024-04-20,2024-11-19,63,81,94,2.5,56,2,-13.0
+675461568,Peanut Oil,Oils & Fats,Edgeify,100383988,203 Mariners Cove Junction,backordered,2024-06-04,2024-06-16,2024-03-28,57,36,53,4.0,56,32,96.0
+102182680,Egg (Turkey),Dairy,Quinu,720241595,6810 Aberg Junction,backordered,2024-06-04,2024-05-28,2025-01-03,39,93,57,2.5,26,44,43.0
+465201819,Short Grain Rice,Grains & Pulses,Katz,107627936,805 Nancy Crossing,backordered,2024-07-04,2024-10-04,2024-05-15,41,36,78,4.5,38,75,-69.0
+877915803,Tuna,Seafood,Meemm,898430880,8 Fremont Circle,continued,2024-07-04,2024-03-09,2024-09-01,25,44,96,18.0,36,16,-97.0
+714365841,Cauliflower,Fruits & Vegetables,Dynabox,875469674,52 Victoria Plaza,discontinued,2024-07-04,2024-09-25,2024-06-25,87,91,94,2.5,47,4,56.0
+076791199,Onion,Fruits & Vegetables,Wikizz,754066250,1991 Kropf Way,continued,2024-07-04,2024-07-10,2024-10-15,20,65,61,2.0,51,78,91.0
+489578596,Banana,Fruits & Vegetables,Youfeed,408172222,3825 Raven Avenue,discontinued,2024-09-04,2024-04-24,2024-10-18,95,25,91,53.82,87,5,-53.0
+203251965,Coconut,Fruits & Vegetables,Katz,971551262,78884 Union Street,backordered,2024-09-04,2024-04-04,2024-05-21,56,75,13,5.0,42,53,94.0
+510690489,Bread Flour,Grains & Pulses,Oloo,199780708,3 Anthes Place,discontinued,2024-10-04,2024-03-30,2024-05-30,96,83,50,1.5,81,89,-26.0
+174934579,Almond Flour,Grains & Pulses,Trudoo,675417091,4627 Amoth Circle,continued,2024-10-04,2024-11-08,2024-05-28,76,8,2,9.5,24,53,-10.0
+466223434,Jasmine Rice,Grains & Pulses,Topdrive,854731534,2 Miller Lane,discontinued,2024-10-04,2024-12-08,2024-07-23,17,19,74,4.75,58,27,-121.0
+058991428,Avocado Oil,Oils & Fats,Dabjam,174945505,591 Maple Junction,continued,2024-10-04,2025-01-25,2024-07-01,14,75,10,10.0,65,62,53.0
+606328752,Chocolate Biscuit,Bakery,Trunyx,079488632,48 Golf View Pass,continued,2024-11-04,2024-04-04,2025-01-26,96,16,48,5.0,45,68,5.0
+658549364,Black Rice,Grains & Pulses,BlogXS,648004141,752 Mccormick Way,backordered,2024-11-04,2024-12-19,2024-04-22,30,34,96,6.3,61,13,-51.0
+662688345,Greek Yogurt,Dairy,Thoughtstorm,321821895,550 Clemons Plaza,continued,2024-12-04,2024-06-02,2025-01-08,91,84,11,3.0,56,90,79.0
+136737016,Peach,Fruits & Vegetables,Youfeed,787266352,04 Hagan Crossing,backordered,2024-12-04,2024-07-22,2025-02-23,47,67,57,4.0,36,48,-61.0
+200543716,Chocolate Biscuit,Bakery,JumpXS,495911019,39 Lakewood Gardens Center,discontinued,2024-03-05,2024-09-16,2024-02-25,11,6,100,5.0,88,24,-33.0
+110730189,Plum,Fruits & Vegetables,Voomm,751903627,5104 Jana Court,continued,2024-04-05,2024-09-21,2024-05-06,95,50,76,4.0,69,5,73.0
+407937235,Sour Cream,Dairy,Chatterbridge,890483542,68086 Crowley Circle,discontinued,2024-04-05,2024-12-09,2024-05-19,92,67,51,4.0,23,78,93.0
+568943733,Yogurt,Dairy,Skinte,571338386,897 Independence Circle,backordered,2024-04-05,2024-03-17,2025-02-02,85,83,13,1.75,49,75,-239.0
+831177658,Asparagus,Fruits & Vegetables,Yabox,614247670,0282 Emmet Hill,backordered,2024-04-05,2024-02-25,2024-12-19,92,3,81,5.0,62,20,-53.0
+729892512,Mushrooms,Fruits & Vegetables,Yakijo,031176217,61 Waubesa Court,backordered,2024-04-05,2024-06-27,2024-10-28,24,21,4,6.0,85,17,68.0
+582291358,Cream,Dairy,Bubblebox,668832383,1 Lillian Plaza,backordered,2024-04-05,2024-09-11,2024-09-28,21,24,2,2.35,87,36,80.0
+282755901,Anchovies,Seafood,Jatri,447604337,4 Doe Crossing Avenue,continued,2024-04-05,2024-04-23,2025-01-24,64,1,92,10.0,49,15,59.0
+858068672,Black Tea,Beverages,Kare,446467502,24 South Trail,continued,2024-04-05,2024-10-12,2024-11-21,35,88,87,4.7,39,62,69.0
+657180492,Olive Oil,Oils & Fats,Midel,914928216,8626 Chinook Parkway,continued,2024-05-05,2025-01-23,2025-02-16,100,92,26,6.0,84,9,-59.0
+864826451,White Tea,Beverages,Brightbean,569650404,5501 Fuller Way,backordered,2024-05-05,2024-10-27,2024-08-10,91,78,61,25.0,63,15,89.0
+482890604,Vegetable Oil,Oils & Fats,Browseblab,942611193,5 Colorado Park,continued,2024-05-05,2024-08-12,2024-06-20,18,72,71,2.0,25,81,76.0
+218097115,White Rice,Grains & Pulses,Tagcat,577744116,3053 Sachs Center,discontinued,2024-05-05,2024-07-22,2025-02-24,80,86,50,1.8,46,69,-224.0
+842699130,Long Grain Rice,Grains & Pulses,Flashspan,886152915,49263 Graceland Pass,discontinued,2024-06-05,2024-09-27,2024-08-02,11,10,80,1.5,48,65,-50.0
+547584622,Chocolate Biscuit,Bakery,Devcast,949032643,865 Eagle Crest Park,backordered,2024-06-05,2025-01-16,2024-11-21,99,3,79,5.0,65,16,-35.0
+658674029,Peach,Fruits & Vegetables,Livepath,705919841,36124 Carberry Junction,continued,2024-06-05,2024-09-03,2024-06-16,40,83,50,4.0,92,50,75.0
+243109184,Rye Bread,Bakery,Brainlounge,693782045,6 Haas Circle,backordered,2024-07-05,2024-07-26,2024-04-08,69,65,91,3.0,98,50,46.0
+539302215,Egg (Goose),Dairy,Gabvine,422106541,292 Utah Street,continued,2024-07-05,2024-10-04,2024-07-09,60,43,32,2.5,77,60,49.0
+945983383,Brown Rice,Grains & Pulses,Viva,394880039,7403 Fuller Hill,discontinued,2024-07-05,2024-10-08,2024-09-01,79,38,67,2.5,43,93,22.0
+836253618,Asparagus,Fruits & Vegetables,Realmix,645289996,2696 Katie Road,backordered,2024-08-05,2025-01-11,2024-07-04,68,12,73,5.0,84,95,-116.0
+138442178,Sardines,Seafood,Browsetype,668321802,86207 Tennyson Parkway,continued,2024-09-05,2024-09-21,2024-03-24,44,67,48,6.0,90,11,-13.0
+051844175,Black Coffee,Beverages,Skyndu,316765646,57 Di Loreto Circle,continued,2024-09-05,2024-10-23,2024-05-03,40,30,60,15.0,33,84,88.0
+893350155,Brown Rice,Grains & Pulses,Fivebridge,837804531,9 Kipling Road,continued,2024-09-05,2024-09-11,2025-01-16,46,81,47,2.5,48,48,-155.0
+384174656,White Sugar,Grains & Pulses,Dazzlesphere,572025756,1309 Elka Junction,backordered,2024-10-05,2024-04-13,2024-12-23,24,69,2,2.0,20,20,0.0
+743051263,Green Coffee,Beverages,Photobean,830765024,744 Lakewood Gardens Crossing,continued,2024-10-05,2024-07-10,2024-08-16,29,91,48,12.0,28,40,0.0
+025083777,Egg (Quail),Dairy,Realpoint,699332582,895 Northland Hill,discontinued,2024-11-05,2024-07-07,2024-06-26,97,88,81,0.8,97,18,-43.0
+791369840,Herbal Tea,Beverages,Pixonyx,078090926,26175 Oxford Way,discontinued,2024-11-05,2024-08-19,2024-06-23,77,45,75,30.0,25,37,81.0
+352990889,Coconut Oil,Oils & Fats,Gevee,167769987,95 Packers Lane,discontinued,2024-11-05,2024-07-11,2024-04-21,33,78,79,5.0,60,25,-48.0
+415945069,Egg (Duck),Dairy,Blogtags,454715053,9 Clemons Hill,discontinued,2024-11-05,2025-02-05,2024-03-21,77,1,41,1.0,58,55,58.0
+835539523,Buttermilk,Dairy,Zoombox,899764338,84336 Haas Place,continued,2024-11-05,2025-02-14,2025-01-28,28,90,70,2.45,76,78,5.0
+441123331,Tuna,Seafood,Realmix,904534096,63787 Arkansas Street,discontinued,2024-11-05,2024-07-02,2024-04-08,85,17,96,18.0,92,34,-3.0
+931985984,Mango,Fruits & Vegetables,Skalith,864417850,54706 Prairieview Point,continued,2024-11-05,2024-05-14,2024-09-17,73,69,1,5.0,50,67,63.0
+738747534,Pomegranate,Fruits & Vegetables,Twitterwire,125662563,901 Norway Maple Crossing,backordered,2024-11-05,2024-11-08,2024-12-18,88,24,44,6.0,72,88,-34.0
+181077886,Evaporated Milk,Dairy,Demivee,114663182,55309 6th Junction,continued,2024-11-05,2024-11-07,2024-02-27,64,28,35,2.0,74,50,-22.0
+639560739,Robusta Coffee,Beverages,Jetwire,171231252,6808 Chinook Parkway,backordered,2024-12-05,2025-02-21,2024-12-22,68,12,42,10.0,39,6,32.0
+261775690,Cucumber,Fruits & Vegetables,Skinte,067081412,61707 Mariners Cove Park,discontinued,2024-03-06,2024-07-15,2025-01-21,85,33,50,1.8,64,38,85.0
+477493277,Powdered Sugar,Grains & Pulses,Devbug,965513929,502 Sachs Circle,backordered,2024-03-06,2024-02-29,2024-09-13,46,20,30,2.5,54,24,41.0
+577635501,Cod,Seafood,Kwimbee,257901641,46 Colorado Place,discontinued,2024-03-06,2024-04-07,2024-03-24,72,29,10,8.0,54,38,56.0
+902309767,Long Grain Rice,Grains & Pulses,Voonyx,705159048,00397 Bay Terrace,discontinued,2024-04-06,2024-05-01,2024-11-17,67,88,32,1.5,66,42,30.0
+192145762,Pear,Fruits & Vegetables,Gigashots,881083774,7 Bonner Terrace,backordered,2024-04-06,2024-04-24,2024-10-13,41,52,75,4.5,57,62,36.0
+746422435,Cauliflower,Fruits & Vegetables,Skinix,520123409,6292 Chive Street,backordered,2024-04-06,2024-12-28,2024-04-08,66,31,18,2.5,85,39,-9.0
+472213391,Black Coffee,Beverages,Digitube,214505520,0023 Upham Road,continued,2024-04-06,2024-07-09,2024-09-12,78,38,27,15.0,54,42,54.0
+871040187,Whole Wheat Flour,Grains & Pulses,Rhyloo,418811166,0 Moose Lane,backordered,2024-04-06,2024-05-28,2025-02-05,86,100,78,2.75,52,91,22.0
+872726544,Egg (Goose),Dairy,Skalith,936998001,4 Nelson Alley,discontinued,2024-05-06,2024-05-03,2025-02-13,90,3,49,2.5,51,87,-75.0
+063406856,Wild Rice,Grains & Pulses,Podcat,110057835,84 Rusk Terrace,continued,2024-05-06,2024-11-25,2024-02-29,41,56,12,9.75,93,88,-71.0
+800208041,Black Rice,Grains & Pulses,Wordware,666841941,662 Vernon Point,continued,2024-06-06,2024-12-03,2024-07-08,11,58,26,6.2,49,34,5.0
+484613742,Kiwi,Fruits & Vegetables,Zooveo,783815054,42719 Milwaukee Avenue,discontinued,2024-07-06,2024-05-17,2025-01-23,37,8,50,6.0,47,62,31.0
+783628578,Lemon,Fruits & Vegetables,Vimbo,576336273,86 Corben Crossing,backordered,2024-07-06,2024-11-17,2024-04-10,72,32,80,2.45,25,9,-32.0
+605504771,Haddock,Seafood,Kwimbee,245689517,1 Monica Lane,backordered,2024-07-06,2024-10-03,2024-08-24,75,80,87,9.0,49,40,64.0
+111557826,Arabica Coffee,Beverages,Feedfire,917883177,321 Barby Parkway,continued,2024-07-06,2025-01-31,2024-12-26,98,83,5,20.0,39,79,18.0
+429076946,Coconut Oil,Oils & Fats,Bluejam,323869832,093 Anhalt Crossing,continued,2024-07-06,2025-01-01,2024-08-31,90,75,6,5.0,55,64,-103.0
+990488310,Tomato,Fruits & Vegetables,Demimbu,704538646,43 Lakewood Junction,discontinued,2024-07-06,2024-04-22,2024-05-27,32,49,73,2.5,80,36,-16.0
+854403667,Gouda Cheese,Dairy,Kamba,006805333,6151 Forster Drive,backordered,2024-08-06,2024-06-03,2024-09-09,68,29,31,7.0,53,20,55.0
+935717294,Sushi Rice,Grains & Pulses,Quire,778420920,76 Fisk Park,backordered,2024-09-06,2024-11-03,2024-05-22,78,94,7,4.35,69,40,62.0
+829777752,Spinach,Fruits & Vegetables,Shuffledrive,574738672,58 Corscot Terrace,continued,2024-09-06,2024-12-28,2024-11-04,88,78,17,2.5,58,21,42.0
+764769996,Chocolate Biscuit,Bakery,Photobean,884286227,0 Larry Terrace,backordered,2024-10-06,2025-01-14,2024-12-06,37,96,82,5.0,35,23,64.0
+506792072,Canola Oil,Oils & Fats,Thoughtmix,815885701,20 Butterfield Lane,continued,2024-10-06,2024-05-03,2024-05-30,97,32,43,2.3,82,98,34.0
+503293145,Milk,Dairy,Jatri,884183855,591 Maple Wood Drive,backordered,2024-11-06,2024-12-20,2024-04-21,12,54,48,1.0,31,88,-20.0
+523925312,All-Purpose Flour,Grains & Pulses,Pixonyx,780924768,336 Old Shore Lane,continued,2024-11-06,2025-02-19,2024-07-24,50,42,20,1.75,87,59,-184.0
+476635703,Basmati Rice,Grains & Pulses,Kanoodle,520622916,6500 Raven Drive,discontinued,2024-12-06,2024-06-14,2024-09-14,15,49,40,4.5,68,74,32.0
+581222282,Black Tea,Beverages,Ozu,557739118,96 American Ash Center,discontinued,2024-12-06,2024-06-30,2024-06-12,59,20,17,5.0,45,15,-9.0
+841512114,Brown Rice,Grains & Pulses,Avamm,797041471,12 Rigney Street,continued,2024-12-06,2024-03-06,2024-08-11,39,57,54,2.5,77,32,67.0
+936822069,Lime,Fruits & Vegetables,Roomm,600387810,2718 Londonderry Plaza,backordered,2024-12-06,2024-06-23,2024-08-16,76,39,15,2.0,77,70,58.0
+487899187,Peach,Fruits & Vegetables,Browsetype,959445323,41 Stephen Crossing,backordered,2024-12-06,2024-06-26,2024-11-15,45,79,95,4.0,84,62,9.0
+858060613,Oatmeal Biscuit,Bakery,Kwimbee,062862758,9269 Main Trail,continued,2024-03-07,2025-01-01,2024-04-26,41,21,47,5.0,50,99,26.0
+192449890,Herbal Tea,Beverages,Wikido,981070604,620 Mockingbird Pass,continued,2024-03-07,2024-10-02,2024-11-09,61,22,98,30.0,90,11,-98.0
+602853783,Mushrooms,Fruits & Vegetables,Youfeed,588279061,37973 Parkside Junction,continued,2024-04-07,2024-03-28,2025-01-15,51,62,95,6.0,52,21,88.0
+345470827,White Rice,Grains & Pulses,Wikibox,308538580,18 Comanche Junction,backordered,2024-04-07,2025-01-17,2024-07-05,54,53,33,1.8,94,82,60.0
+067312162,Lemon,Fruits & Vegetables,Meejo,175468875,30968 Anzinger Court,discontinued,2024-04-07,2024-10-07,2024-07-19,87,1,98,2.5,61,84,13.0
+481931199,Canola Oil,Oils & Fats,Omba,639245144,339 Paget Place,discontinued,2024-05-07,2024-12-24,2024-06-09,46,51,92,2.3,47,25,-38.0
+400037322,White Sugar,Grains & Pulses,Wordtune,416443129,2693 6th Court,discontinued,2024-05-07,2025-02-16,2024-10-11,13,32,79,2.0,38,61,47.0
+914170366,Grapes,Fruits & Vegetables,Riffwire,284422578,1 Elmside Parkway,discontinued,2024-06-07,2024-12-07,2024-12-04,25,74,100,5.5,41,59,-61.0
+245711080,Kale,Fruits & Vegetables,Devshare,075201107,5325 Milwaukee Lane,discontinued,2024-06-07,2025-02-21,2024-04-11,60,15,89,4.0,21,29,-44.0
+220833347,Long Grain Rice,Grains & Pulses,Yodoo,014317544,38 Superior Road,discontinued,2024-07-07,2024-04-29,2024-04-30,69,82,58,1.5,34,22,-38.0
+091011740,Sushi Rice,Grains & Pulses,Talane,638361262,96629 Nova Plaza,discontinued,2024-07-07,2024-12-20,2024-08-31,36,81,54,4.75,73,60,35.0
+172746898,Whole Wheat Bread,Bakery,Photobug,347381209,657 Texas Street,backordered,2024-07-07,2024-06-01,2024-03-22,36,53,92,3.5,67,43,18.0
+386552312,Kale,Fruits & Vegetables,Dabshots,911277174,17 Reinke Circle,backordered,2024-08-07,2024-04-09,2024-10-18,79,74,87,4.0,80,26,36.0
+603274114,Egg (Turkey),Dairy,Katz,599688346,3 Bellgrove Way,continued,2024-09-07,2024-11-22,2024-10-17,63,7,23,2.35,78,100,68.0
+542813746,Green Beans,Fruits & Vegetables,Viva,088244585,00 Ridgeway Plaza,discontinued,2024-09-07,2024-03-10,2024-11-03,26,70,52,2.0,36,10,-28.0
+253497974,Spinach,Fruits & Vegetables,Devshare,827376019,42 Bunker Hill Junction,discontinued,2024-10-07,2024-05-28,2024-06-22,72,70,99,2.5,82,32,72.0
+163800753,Apricot,Fruits & Vegetables,Quinu,246035521,701 Logan Court,continued,2024-10-07,2024-05-16,2024-05-08,38,22,71,5.0,33,62,61.0
+380499319,Oatmeal Biscuit,Bakery,Trunyx,904475123,6 Lillian Junction,continued,2024-11-07,2024-04-29,2024-05-09,82,6,53,5.0,21,58,-88.0
+503293360,Wild Rice,Grains & Pulses,Topdrive,855942570,72 Crownhardt Circle,continued,2024-11-07,2025-02-16,2024-08-25,19,77,66,10.0,62,100,-176.0
+196102236,Whole Wheat Bread,Bakery,Mybuzz,537993174,8524 Shelley Way,continued,2024-12-07,2024-08-03,2024-03-19,58,48,9,3.5,98,69,-61.0
+466328420,Whipped Cream,Dairy,Skippad,279968883,9 Meadow Ridge Center,continued,2024-03-08,2024-12-21,2024-05-23,98,24,4,4.1,89,80,30.0
+148362894,Apple,Fruits & Vegetables,Jabbersphere,821574299,2 Hooker Terrace,continued,2024-03-08,2025-01-11,2024-09-25,44,92,92,3.5,41,61,10.0
+081962703,Peas,Fruits & Vegetables,Youbridge,343151199,56 Esker Park,backordered,2024-03-08,2024-11-29,2024-10-17,100,52,2,3.0,86,70,-49.0
+870975691,Robusta Coffee,Beverages,Photofeed,262137885,236 Gateway Lane,discontinued,2024-04-08,2024-08-29,2024-03-26,62,78,97,10.0,62,97,19.0
+044535485,Tomato,Fruits & Vegetables,Quatz,438802879,2 Sunbrook Lane,backordered,2024-04-08,2025-01-10,2024-04-02,84,20,58,2.5,86,64,-56.0
+826788097,Cottage Cheese,Dairy,Feedmix,654030311,6172 Hovde Circle,backordered,2024-04-08,2024-08-24,2024-04-05,68,82,58,4.8,90,2,26.0
+437039939,Pineapple,Fruits & Vegetables,Bubblemix,699284929,4 Sundown Place,continued,2024-05-08,2024-05-22,2025-02-17,55,91,35,3.5,81,19,98.0
+284338533,Multigrain Bread,Bakery,Topicware,816940300,8 Mayer Trail,continued,2024-05-08,2024-02-27,2025-02-02,87,70,77,3.2,73,44,77.0
+742340628,Almond Flour,Grains & Pulses,Shuffledrive,495597092,2 Veith Crossing,continued,2024-05-08,2024-12-15,2024-05-13,12,56,92,9.5,56,6,40.0
+028889412,Cauliflower,Fruits & Vegetables,Photobug,223074653,880 Calypso Road,backordered,2024-06-08,2024-03-28,2025-02-04,95,66,69,2.48,92,72,89.0
+806586456,Mango,Fruits & Vegetables,Wordtune,420806579,44051 Old Shore Junction,backordered,2024-06-08,2024-05-19,2024-12-10,84,9,46,5.0,30,68,22.0
+705871204,Black Rice,Grains & Pulses,Reallinks,413999203,2446 Anhalt Way,discontinued,2024-07-08,2024-07-15,2024-06-23,68,68,97,6.0,37,31,-127.0
+889519038,Black Coffee,Beverages,Youfeed,147135795,5 Anderson Trail,continued,2024-07-08,2024-10-11,2025-02-11,11,72,5,15.0,89,4,16.0
+453179731,Palm Oil,Oils & Fats,Wordware,057790378,70156 7th Junction,discontinued,2024-07-08,2025-01-07,2024-08-20,44,83,78,1.8,46,4,96.0
+638749747,Orange,Fruits & Vegetables,Oloo,225064911,183 Buell Park,discontinued,2024-07-08,2024-12-09,2024-11-11,36,59,90,3.0,25,60,91.0
+445465713,Peach,Fruits & Vegetables,Blogpad,613825182,832 Goodland Alley,discontinued,2024-07-08,2025-01-16,2025-02-13,94,69,68,4.0,24,20,-140.0
+230702433,Powdered Sugar,Grains & Pulses,Meeveo,822359317,836 Brown Alley,discontinued,2024-08-08,2024-04-11,2024-12-28,68,7,37,2.5,69,1,17.0
+912573672,Tilapia,Seafood,InnoZ,304386295,10997 Dexter Parkway,continued,2024-08-08,2024-12-18,2024-07-05,78,75,3,7.0,63,100,99.0
+695612496,Banana,Fruits & Vegetables,Skinix,387907081,154 Delladonna Hill,backordered,2024-08-08,2024-03-18,2024-12-09,82,29,62,15.31,77,27,-59.0
+870136488,Sushi Rice,Grains & Pulses,Tekfly,774710792,07855 Goodland Lane,continued,2024-08-08,2024-10-26,2024-04-14,22,10,53,4.25,64,7,65.0
+319694614,Arabica Coffee,Beverages,Voomm,831048425,993 Kensington Drive,discontinued,2024-09-08,2024-06-06,2025-01-15,62,89,6,20.0,23,11,89.0
+962091739,Evaporated Milk,Dairy,Miboo,829307733,779 Ridgeway Street,backordered,2024-09-08,2024-02-27,2024-02-29,70,81,75,2.0,24,54,52.0
+200223173,Bread Flour,Grains & Pulses,Mydeo,541881006,81878 Nobel Point,discontinued,2024-10-08,2024-11-10,2025-02-22,21,63,65,1.5,38,73,-125.0
+445523909,Pear,Fruits & Vegetables,Riffwire,808631186,6 Charing Cross Circle,continued,2024-10-08,2024-02-26,2025-01-19,61,50,9,4.5,24,92,-92.0
+409021995,Asparagus,Fruits & Vegetables,Zoomzone,868797811,1519 Delaware Court,backordered,2024-10-08,2024-12-08,2024-04-01,46,88,20,4.8,59,79,-283.0
+078464804,Jasmine Rice,Grains & Pulses,Tagcat,306052164,2 Fair Oaks Pass,discontinued,2024-10-08,2024-07-02,2024-09-25,20,25,73,4.75,78,1,-34.0
+175043699,Sweet Potato,Fruits & Vegetables,Jaxworks,812768218,18 Daystar Parkway,continued,2024-10-08,2024-06-15,2024-08-17,80,60,71,2.0,98,13,99.0
+555228242,Whipped Cream,Dairy,Feedbug,488845431,7 Spohn Avenue,backordered,2024-11-08,2024-03-30,2024-09-07,29,36,40,4.0,60,96,87.0
+170229721,Apple,Fruits & Vegetables,Chatterpoint,596290798,39 Dahle Alley,discontinued,2024-11-08,2024-12-13,2025-01-12,43,63,99,3.5,39,77,-60.0
+039400630,Sunflower Oil,Oils & Fats,Skibox,497628263,27408 Burning Wood Street,discontinued,2024-11-08,2024-10-31,2024-04-03,23,43,75,2.5,91,86,-97.0
+715946552,Long Grain Rice,Grains & Pulses,Brightbean,634927603,3 Westerfield Crossing,continued,2024-12-08,2025-02-19,2024-04-17,12,59,62,1.5,95,99,5.0
+202253930,White Tea,Beverages,Skipstorm,730692753,5756 Stephen Avenue,continued,2024-12-08,2024-02-29,2024-03-17,99,87,10,25.0,93,70,-4.0
+531515726,Grapes,Fruits & Vegetables,Flipopia,931804005,84239 Meadow Vale Trail,backordered,2024-12-08,2025-01-12,2024-04-20,37,45,62,5.5,34,23,25.0
+777774536,Basmati Rice,Grains & Pulses,Skidoo,643965538,4784 Farmco Alley,backordered,2024-12-08,2024-09-12,2024-04-04,26,67,46,4.4,54,46,32.0
+078343320,Egg (Quail),Dairy,Trunyx,478319154,79 Monterey Avenue,continued,2024-12-08,2024-03-07,2024-09-20,94,60,78,0.8,100,42,15.0
+517616320,Egg (Goose),Dairy,Youopia,284611136,587 Vermont Terrace,backordered,2024-03-09,2024-08-30,2024-06-22,43,78,85,2.5,48,98,58.0
+342914939,Digestive Biscuit,Bakery,Eimbee,392841614,983 Sommers Circle,discontinued,2024-03-09,2024-11-24,2025-02-13,34,49,27,4.0,78,20,-104.0
+670251245,Cabbage,Fruits & Vegetables,Chatterbridge,285750716,51890 Lindbergh Terrace,continued,2024-04-09,2024-03-06,2024-08-12,88,46,55,1.0,73,63,74.0
+639360145,Plum,Fruits & Vegetables,Thoughtbeat,694153675,95 Kingsford Terrace,discontinued,2024-04-09,2024-06-08,2024-12-03,22,56,72,4.0,70,39,14.0
+274951912,Potato,Fruits & Vegetables,Thoughtbridge,346678907,12710 Gulseth Circle,continued,2024-05-09,2024-02-29,2024-05-24,26,63,88,1.2,84,70,44.0
+475545780,Haddock,Seafood,Babbleopia,629795038,1 Westport Crossing,continued,2024-06-09,2024-06-22,2024-04-17,93,62,65,9.0,78,87,17.0
+210133508,Cabbage,Fruits & Vegetables,Meevee,644898494,84305 Fair Oaks Plaza,backordered,2024-06-09,2024-06-13,2024-11-10,12,95,49,1.0,25,23,-12.0
+399132999,Evaporated Milk,Dairy,Centimia,741198973,15 Oriole Park,discontinued,2024-06-09,2024-04-06,2024-04-10,23,99,97,2.0,68,76,8.0
+823955070,Chocolate Biscuit,Bakery,Vidoo,018019502,43442 Homewood Street,continued,2024-07-09,2025-02-17,2025-02-20,75,81,17,5.0,69,38,-12.0
+621002245,Sourdough Bread,Bakery,Meevee,181108314,56830 Fremont Road,backordered,2024-07-09,2024-11-08,2024-07-12,22,60,73,4.2,62,3,45.0
+097123630,Grapes,Fruits & Vegetables,Aibox,178076972,10 Golf Course Hill,backordered,2024-07-09,2024-03-25,2024-09-30,87,62,2,5.5,22,38,95.0
+250109478,Eggplant,Fruits & Vegetables,Topicblab,245763402,357 Maple Park,continued,2024-08-09,2024-10-13,2024-07-31,74,30,24,3.0,82,12,-73.0
+039199890,Halibut,Seafood,Wikibox,692898783,7 Riverside Road,continued,2024-08-09,2024-12-07,2024-07-25,47,29,70,20.0,61,44,85.0
+612936327,Salmon,Seafood,Kamba,000237719,4353 Dixon Circle,continued,2024-08-09,2024-12-29,2024-04-04,98,67,49,15.0,21,61,28.0
+085195579,Broccoli,Fruits & Vegetables,Abatz,321782765,89 Karstens Alley,discontinued,2024-08-09,2024-08-22,2024-08-16,35,4,76,4.0,90,30,-190.0
+003669496,Grapes,Fruits & Vegetables,Kimia,405151141,898 Rowland Trail,continued,2024-08-09,2025-02-08,2024-12-28,30,66,28,5.5,63,98,67.0
+288406096,Pomegranate,Fruits & Vegetables,Flipopia,154448224,92655 Pond Park,discontinued,2024-09-09,2025-02-14,2024-09-12,19,65,48,6.0,59,53,-56.0
+045423863,Bread Flour,Grains & Pulses,Eidel,559529832,403 Loomis Way,backordered,2024-10-09,2024-12-11,2024-12-22,34,46,45,1.5,49,25,10.0
+181995799,Cheddar Cheese,Dairy,Jayo,768702139,87784 Blaine Way,backordered,2024-10-09,2024-04-28,2024-10-30,40,81,40,9.0,40,48,49.0
+568753717,Brown Rice,Grains & Pulses,Youtags,392576162,32 Cottonwood Pass,continued,2024-10-09,2024-08-01,2024-05-03,89,54,15,2.5,64,63,-20.0
+255226043,Gouda Cheese,Dairy,Kazu,291227037,890 Eggendart Pass,discontinued,2024-10-09,2024-08-19,2025-02-03,71,93,75,7.0,77,58,2.0
+274590724,Feta Cheese,Dairy,Quaxo,453318563,4 Duke Way,discontinued,2024-11-09,2024-08-12,2025-02-24,91,7,64,7.0,32,65,25.0
+750804909,Corn Oil,Oils & Fats,Tagopia,347265887,7 Gateway Center,backordered,2024-12-09,2024-04-12,2024-09-09,20,55,15,2.5,86,61,-103.0
+079709352,Bell Pepper,Fruits & Vegetables,Tagtune,147244622,459 Gateway Pass,continued,2024-03-10,2024-05-16,2024-07-12,96,33,72,4.45,74,100,29.0
+261349069,Whipped Cream,Dairy,Devcast,800680825,4929 Westend Point,continued,2024-03-10,2024-11-11,2025-01-30,14,87,8,4.0,90,14,-35.0
+083962704,White Sugar,Grains & Pulses,Cogibox,941869620,160 Crowley Center,discontinued,2024-03-10,2024-04-01,2024-05-10,42,12,28,2.0,80,8,84.0
+249754231,Green Beans,Fruits & Vegetables,Jayo,991454924,62494 Longview Drive,continued,2024-03-10,2024-07-09,2024-08-17,31,61,28,2.1,55,70,90.0
+281979246,Powdered Sugar,Grains & Pulses,Riffwire,312812352,8499 Hanover Terrace,continued,2024-03-10,2024-07-11,2024-05-23,47,30,16,2.5,22,81,-27.0
+770131553,Canola Oil,Oils & Fats,Yodo,422525861,48788 Chinook Place,discontinued,2024-04-10,2024-10-13,2024-08-20,79,31,66,2.3,92,13,-268.0
+837162177,Halibut,Seafood,Linktype,795188344,26266 Esker Point,backordered,2024-04-10,2024-10-10,2024-09-13,18,46,26,20.0,57,95,86.0
+551647723,Halibut,Seafood,Gevee,854549252,6410 Northwestern Pass,continued,2024-04-10,2024-05-17,2025-01-08,82,31,86,20.0,66,74,-67.0
+227783553,Cheddar Cheese,Dairy,Quaxo,495901752,0782 Dapin Avenue,continued,2024-04-10,2024-10-24,2025-02-09,36,77,49,9.0,30,84,-12.0
+143313739,Avocado Oil,Oils & Fats,Voolith,871596467,8 Thackeray Drive,discontinued,2024-04-10,2024-10-15,2024-03-28,24,89,27,10.0,99,1,-180.0
+475784161,Anchovies,Seafood,Jaxspan,960015429,5 Forest Run Way,discontinued,2024-05-10,2024-03-10,2024-09-14,88,56,81,10.0,98,86,99.0
+598576577,Evaporated Milk,Dairy,Blognation,575697172,230 Tony Court,discontinued,2024-05-10,2024-08-10,2024-03-04,23,100,77,2.0,63,26,12.0
+025598196,Mango,Fruits & Vegetables,Jaxnation,444956660,545 Linden Alley,discontinued,2024-06-10,2024-12-12,2024-07-25,61,14,49,5.2,74,35,59.0
+139009016,Bell Pepper,Fruits & Vegetables,Meetz,639699608,521 Burning Wood Trail,discontinued,2024-06-10,2025-01-06,2024-09-19,89,96,94,4.5,38,96,53.0
+151449413,Strawberries,Fruits & Vegetables,Meevee,089120895,3 Buhler Place,backordered,2024-07-10,2024-06-30,2024-07-29,58,15,87,5.9,52,81,-153.0
+655279488,Grapes,Fruits & Vegetables,Layo,234820516,23704 Algoma Park,continued,2024-07-10,2024-06-24,2024-10-10,38,72,39,5.5,59,8,-56.0
+748183306,Spinach,Fruits & Vegetables,Eabox,755362986,62 Thackeray Center,backordered,2024-08-10,2024-07-27,2024-05-09,45,70,98,2.45,25,39,86.0
+601987050,Green Tea,Beverages,Photobug,274936787,5306 Arkansas Avenue,continued,2024-08-10,2024-11-24,2024-03-19,26,59,54,8.0,92,49,-56.0
+820417211,Swiss Cheese,Dairy,Reallinks,036150558,285 1st Park,discontinued,2024-09-10,2024-05-19,2024-07-01,49,49,26,8.0,78,61,47.0
+170024721,Green Beans,Fruits & Vegetables,Omba,383104533,379 Duke Court,continued,2024-09-10,2025-02-18,2024-10-29,31,55,5,2.0,71,46,22.0
+744040582,Cherry,Fruits & Vegetables,Jabbersphere,316286696,07 Maple Wood Drive,continued,2024-09-10,2024-11-20,2024-06-11,57,82,59,8.0,44,57,35.0
+735612867,Sourdough Bread,Bakery,Eayo,603865077,7444 Saint Paul Circle,discontinued,2024-10-10,2024-06-29,2024-09-29,12,86,98,4.0,75,86,-30.0
+451944094,Plum,Fruits & Vegetables,Devcast,656114749,2 Scofield Street,continued,2024-10-10,2024-06-14,2024-10-10,64,71,69,3.9,60,67,-15.0
+923623567,Tomato,Fruits & Vegetables,Fivebridge,400567748,826 Melvin Pass,discontinued,2024-10-10,2024-05-06,2024-12-25,11,10,60,2.5,93,53,-12.0
+969612193,Jasmine Rice,Grains & Pulses,Babbleset,714674910,63578 Butternut Hill,continued,2024-10-10,2024-08-16,2024-11-10,46,39,11,4.75,36,54,43.0
+926523737,Zucchini,Fruits & Vegetables,Quimm,423616981,66330 Northridge Street,backordered,2024-11-10,2024-07-30,2024-10-01,89,56,74,2.5,27,51,-50.0
+896731543,Digestive Biscuit,Bakery,Lajo,436797350,297 Petterle Way,discontinued,2024-11-10,2024-03-28,2025-01-03,72,78,1,4.0,85,30,-89.0
+708154015,Butter Biscuit,Bakery,Ozu,891349717,175 Sycamore Circle,continued,2024-12-10,2024-07-15,2024-08-30,38,93,61,6.0,67,100,65.0
+907370044,Black Rice,Grains & Pulses,Bubblemix,393393869,92321 Nelson Trail,backordered,2024-12-10,2025-01-17,2024-05-17,79,98,97,6.0,26,21,-49.0
+674737093,Black Tea,Beverages,Topicstorm,928306986,87417 Forest Pass,continued,2024-12-10,2024-03-20,2024-04-19,56,12,85,5.0,52,46,19.0
+226212774,Strawberries,Fruits & Vegetables,Babblestorm,709016191,00 Drewry Court,continued,2024-03-11,2024-06-30,2024-06-14,54,26,16,6.0,63,97,12.0
+152406267,Eggplant,Fruits & Vegetables,Mybuzz,129833026,25784 Old Gate Crossing,continued,2024-03-11,2024-04-10,2024-04-26,91,55,94,3.0,42,93,-54.0
+751528731,Pear,Fruits & Vegetables,Voonix,055931927,622 Anthes Lane,backordered,2024-04-11,2024-11-12,2024-08-08,82,65,69,4.45,30,78,-121.0
+409139772,Egg (Chicken),Dairy,Einti,512152283,553 Hooker Trail,backordered,2024-04-11,2024-03-03,2024-05-26,36,30,44,0.2,68,88,-160.0
+293777040,Short Grain Rice,Grains & Pulses,Brightdog,599796740,9431 Clarendon Pass,continued,2024-04-11,2024-05-29,2024-07-29,22,77,15,3.0,68,46,-29.0
+727806006,Sunflower Oil,Oils & Fats,Voolith,812924650,88721 Dawn Crossing,discontinued,2024-05-11,2024-12-13,2024-04-17,87,24,19,2.5,83,3,32.0
+911277489,Orange,Fruits & Vegetables,Oyondu,860791525,43211 Anzinger Drive,continued,2024-05-11,2024-12-10,2024-08-04,44,8,52,2.95,42,66,96.0
+176470503,Cod,Seafood,Katz,694169493,0 Village Green Street,continued,2024-05-11,2024-05-24,2024-08-20,96,12,8,8.0,97,92,-57.0
+918480606,Onion,Fruits & Vegetables,Skyble,688360350,13 Corscot Hill,continued,2024-06-11,2024-07-23,2024-10-28,39,22,73,2.0,60,2,5.0
+117453025,Peach,Fruits & Vegetables,Oyoloo,547111582,3104 Ridge Oak Hill,backordered,2024-06-11,2025-02-21,2024-09-03,15,27,21,4.0,37,67,97.0
+298236004,Zucchini,Fruits & Vegetables,Trudeo,102957996,3 Lawn Park,discontinued,2024-06-11,2024-04-04,2024-03-10,52,79,87,2.5,36,100,-81.0
+217186746,Coconut,Fruits & Vegetables,Eamia,960123393,277 Pawling Terrace,discontinued,2024-06-11,2025-01-20,2024-06-06,16,53,12,5.0,21,29,-178.0
+866922312,Avocado Oil,Oils & Fats,Dazzlesphere,777834107,00616 Manitowish Parkway,continued,2024-06-11,2024-12-07,2024-04-30,30,48,52,10.0,22,78,-38.0
+541098062,Sushi Rice,Grains & Pulses,Linklinks,047263363,67 Little Fleur Road,backordered,2024-07-11,2025-01-19,2025-02-16,75,69,100,4.5,43,18,-255.0
+749439034,White Bread,Bakery,Tagfeed,157395480,0 Saint Paul Center,continued,2024-07-11,2024-11-18,2024-05-06,30,91,34,2.5,97,88,58.0
+713002191,Broccoli,Fruits & Vegetables,Yamia,986774279,7 Heffernan Drive,continued,2024-07-11,2024-05-06,2024-05-01,79,72,6,4.0,67,63,9.0
+651459672,Long Grain Rice,Grains & Pulses,Gigashots,650681200,8 Dovetail Junction,continued,2024-08-11,2024-03-16,2024-05-26,71,10,49,1.5,66,43,6.0
+939667754,Pineapple,Fruits & Vegetables,Quinu,787877171,4 4th Place,continued,2024-08-11,2025-01-18,2024-09-27,65,35,3,3.5,25,13,35.0
+272169671,Sesame Oil,Oils & Fats,Skilith,407737065,4 Browning Terrace,continued,2024-08-11,2024-04-12,2024-06-04,100,86,94,6.5,77,57,48.0
+445383366,Tuna,Seafood,Realbridge,338986242,46 Cardinal Way,discontinued,2024-09-11,2024-04-17,2024-03-30,58,77,96,18.0,25,17,26.0
+340750371,Watermelon,Fruits & Vegetables,Latz,327712617,0039 Shelley Place,continued,2024-09-11,2025-01-10,2024-12-03,75,10,68,3.0,90,42,32.0
+249726969,Cheese,Dairy,Twitterbeat,275327847,5862 Hooker Pass,continued,2024-09-11,2024-05-28,2024-06-13,69,53,32,9.2,28,56,53.0
+924552959,Robusta Coffee,Beverages,Katz,131098639,0 Ohio Hill,backordered,2024-09-11,2024-07-16,2024-02-25,59,62,57,10.3,90,94,-100.0
+581826781,Oatmeal Biscuit,Bakery,Pixope,753281709,86 Maryland Junction,continued,2024-10-11,2024-06-29,2024-11-15,34,55,22,5.0,77,85,-4.0
+421349798,Canola Oil,Oils & Fats,Omba,168697328,0087 Bluejay Plaza,backordered,2024-10-11,2024-10-23,2024-12-30,19,80,87,2.3,33,38,-10.0
+182782383,Gouda Cheese,Dairy,Skimia,732104267,96 American Center,backordered,2024-11-11,2024-09-15,2024-07-02,97,77,13,7.0,43,40,-15.0
+035979488,Buttermilk,Dairy,Wordpedia,039830515,53 Lawn Circle,continued,2024-11-11,2024-07-11,2024-03-28,70,66,74,2.5,47,77,7.0
+146817035,White Tea,Beverages,Voolith,013080960,95261 Morningstar Way,backordered,2024-12-11,2024-08-07,2024-05-18,36,90,57,25.0,35,68,-64.0
+014396231,Sunflower Oil,Oils & Fats,Skidoo,084901714,8 Spaight Circle,discontinued,2024-12-11,2024-10-28,2024-12-09,88,100,17,2.5,25,28,-94.0
+259117736,Orange,Fruits & Vegetables,Oba,401800752,72090 Northfield Place,backordered,2024-12-11,2024-08-17,2024-08-29,75,48,25,3.0,96,65,-12.0
+369182937,Green Coffee,Beverages,Kwinu,538440478,90865 Sherman Court,continued,2024-03-12,2025-02-12,2024-11-28,62,89,18,12.0,35,36,32.0
+376663902,Cauliflower,Fruits & Vegetables,Meevee,585366583,85276 Lakewood Gardens Alley,backordered,2024-03-12,2024-08-11,2024-06-12,19,73,60,2.45,70,48,-3.0
+277574489,Egg (Goose),Dairy,Abatz,044560715,27535 Morrow Avenue,discontinued,2024-04-12,2025-01-19,2024-07-04,35,78,68,2.5,95,91,31.0
+970403822,Swiss Cheese,Dairy,Gevee,784591417,42 Clemons Terrace,backordered,2024-05-12,2024-08-23,2024-05-17,50,99,73,8.0,42,1,4.0
+984457372,Cod,Seafood,Roombo,716766562,8531 Manley Court,discontinued,2024-05-12,2024-10-03,2024-05-30,65,79,52,8.0,56,94,98.0
+921525820,Black Tea,Beverages,Jaloo,507472259,0920 Monica Pass,continued,2024-05-12,2024-05-01,2024-06-24,18,36,53,5.3,65,100,-68.0
+249865091,Vanilla Biscuit,Bakery,Ozu,510761164,88 Lighthouse Bay Crossing,discontinued,2024-05-12,2024-06-25,2024-08-14,89,22,23,5.5,83,25,-54.0
+228492551,Mushrooms,Fruits & Vegetables,Izio,142319135,81533 John Wall Court,discontinued,2024-06-12,2024-12-20,2024-09-08,34,1,79,6.2,58,36,70.0
+151698058,Bread Flour,Grains & Pulses,Feedfire,140098505,26160 Independence Alley,continued,2024-06-12,2024-09-23,2024-04-18,87,97,28,1.5,58,21,38.0
+789532073,Canola Oil,Oils & Fats,Tagopia,284659141,085 Reinke Pass,backordered,2024-06-12,2024-10-01,2025-01-04,53,20,75,2.3,83,77,64.0
+102558579,Basmati Rice,Grains & Pulses,Trilia,291121577,1959 Marcy Center,continued,2024-07-12,2024-07-24,2025-01-28,56,53,77,4.5,69,69,7.0
+829482298,Kiwi,Fruits & Vegetables,Topdrive,537496148,555 Butternut Hill,discontinued,2024-07-12,2025-02-17,2024-11-21,38,91,94,5.7,53,87,0.0
+607478704,Papaya,Fruits & Vegetables,Twitterwire,937934398,561 Pennsylvania Way,continued,2024-07-12,2024-09-29,2024-08-22,97,97,71,4.5,53,31,-64.0
+404622952,Trout,Seafood,Browsezoom,573238059,0258 Shoshone Center,backordered,2024-08-12,2024-10-14,2024-11-19,91,68,80,11.5,81,85,42.0
+982352711,Asparagus,Fruits & Vegetables,Devpoint,230524744,5 Transport Pass,continued,2024-09-12,2024-12-31,2025-01-26,22,40,7,5.0,98,60,-5.0
+831081174,White Bread,Bakery,Devpoint,564393559,3 Monument Street,backordered,2024-09-12,2024-03-05,2024-12-25,78,68,68,2.5,89,24,39.0
+285058317,Watermelon,Fruits & Vegetables,Digitube,617554469,848 Old Gate Parkway,backordered,2024-10-12,2024-07-23,2025-01-28,23,85,94,3.0,92,72,73.0
+318035001,Asparagus,Fruits & Vegetables,Voonder,144141945,64 1st Plaza,backordered,2024-10-12,2024-12-04,2024-06-01,78,16,37,4.7,25,96,22.0
+172360566,Sweet Potato,Fruits & Vegetables,Einti,324029679,803 5th Alley,backordered,2024-10-12,2024-03-02,2024-08-04,95,87,13,2.0,61,4,-284.0
+760904411,Ricotta Cheese,Dairy,Shufflester,825526786,15 Loomis Avenue,continued,2024-12-12,2024-08-10,2024-04-16,49,94,18,6.0,38,11,93.0
+439102342,Plum,Fruits & Vegetables,Feedspan,065694690,46758 Hallows Center,continued,2024-12-12,2024-06-08,2024-07-19,26,69,90,4.0,47,35,71.0
+054250746,Onion,Fruits & Vegetables,Gabspot,234500301,49884 Brickson Park Plaza,discontinued,2024-12-12,2024-05-09,2024-06-05,50,68,90,2.0,40,13,26.0
+938150565,Sesame Oil,Oils & Fats,Jaxworks,564221480,8868 Armistice Place,backordered,2024-12-12,2024-08-12,2024-07-01,50,36,96,6.5,53,73,68.0
+672707464,Jasmine Rice,Grains & Pulses,Yadel,839605274,7242 Claremont Avenue,discontinued,2025-02-01,2024-08-24,2024-12-07,91,73,77,4.75,51,49,-38.0
+618274098,Cod,Seafood,Devbug,348500377,29992 Warrior Center,backordered,2025-02-01,2024-07-15,2024-03-24,23,42,87,8.0,63,5,4.0
+922917089,Cheese,Dairy,Jaxspan,085235066,9307 Kingsford Road,discontinued,2025-02-01,2024-07-26,2024-05-06,76,15,99,9.5,60,49,92.0
+760701411,Evaporated Milk,Dairy,Realcube,635280643,87578 Stoughton Parkway,discontinued,2025-02-01,2025-02-12,2025-02-14,15,75,78,1.9,71,21,18.0
+363305036,Salmon,Seafood,Mycat,523591255,21 Golden Leaf Hill,continued,2025-02-01,2024-09-20,2024-05-17,79,28,4,15.0,42,46,70.0
+020346209,Sour Cream,Dairy,Yodel,347241913,96 Brown Drive,backordered,2025-02-01,2024-07-26,2024-10-08,22,43,3,4.1,45,87,-10.0
+498914927,Cottage Cheese,Dairy,Midel,891553471,46 Hoffman Trail,continued,2025-01-02,2024-02-26,2024-11-28,37,5,1,5.0,68,99,-93.0
+940206982,Tuna,Seafood,Thoughtstorm,726493163,381 Rutledge Place,continued,2025-01-02,2024-10-05,2024-05-04,25,75,27,18.0,31,36,-46.0
+888078431,Haddock,Seafood,Eire,665639462,2 Russell Alley,continued,2025-01-02,2024-06-06,2025-02-09,11,87,43,9.0,86,91,-16.0
+196728982,Butter,Dairy,Meembee,502143802,285 East Plaza,discontinued,2025-01-03,2025-01-23,2024-03-31,21,87,67,3.1,64,69,-6.0
+073895740,Egg (Quail),Dairy,Skimia,727843292,59 Veith Center,backordered,2025-01-03,2024-03-12,2024-07-17,34,94,69,0.8,96,30,-8.0
+396295554,Egg (Goose),Dairy,Muxo,676794930,267 International Plaza,discontinued,2025-02-03,2024-04-09,2025-02-05,44,90,17,2.5,21,91,69.0
+276358394,Orange,Fruits & Vegetables,Twitterwire,878936089,812 Shelley Circle,discontinued,2025-02-03,2024-11-13,2024-03-19,88,37,61,2.9,63,35,-333.0
+148444138,Black Coffee,Beverages,Flipbug,905342165,40643 Sullivan Lane,discontinued,2025-02-03,2024-10-25,2024-03-03,61,43,29,15.0,67,6,44.0
+654645070,Heavy Cream,Dairy,Ntags,015177793,00 Luster Alley,discontinued,2025-02-03,2024-03-16,2024-09-01,12,60,73,4.0,20,35,91.0
+469111159,Onion,Fruits & Vegetables,Voolia,308202883,9171 Norway Maple Trail,continued,2025-02-03,2024-10-30,2024-12-19,98,40,100,2.0,46,9,-75.0
+356173857,Arabica Coffee,Beverages,Youspan,907182724,292 Charing Cross Terrace,backordered,2025-01-04,2024-03-21,2024-03-06,46,31,89,20.0,59,65,80.0
+412375498,Cheese,Dairy,Omba,386431626,29817 Coleman Drive,discontinued,2025-01-04,2024-12-24,2025-02-06,88,53,44,9.0,56,14,-10.0
+866724191,Egg (Goose),Dairy,Einti,792198469,18 Troy Avenue,discontinued,2025-01-04,2024-09-29,2025-02-08,88,22,61,2.5,54,100,75.0
+105555971,Sourdough Bread,Bakery,Gigashots,304103509,8425 New Castle Parkway,backordered,2025-01-04,2024-12-02,2024-09-27,94,56,80,4.0,47,96,-85.0
+450504720,Black Rice,Grains & Pulses,Voonder,987915014,7 Ridge Oak Pass,continued,2025-01-04,2024-07-05,2024-03-13,18,78,43,6.0,85,97,-104.0
+739976251,Bell Pepper,Fruits & Vegetables,Livetube,171674304,1666 Dayton Terrace,discontinued,2025-01-04,2024-10-15,2024-09-17,94,18,84,4.5,44,49,-14.0
+534468243,Orange,Fruits & Vegetables,Skipfire,516667174,757 Grasskamp Drive,discontinued,2025-02-04,2024-07-26,2024-04-23,41,94,4,3.0,88,92,-11.0
+127989401,Cream,Dairy,Thoughtblab,966096152,5 Forster Point,backordered,2025-01-05,2024-05-12,2024-05-25,18,14,77,2.5,78,4,-5.0
+930144256,Green Beans,Fruits & Vegetables,BlogXS,375998579,6 Bay Road,continued,2025-01-05,2025-01-11,2024-10-13,19,92,41,2.0,51,79,95.0
+609113745,Black Rice,Grains & Pulses,Blognation,875700273,75054 Ramsey Parkway,backordered,2025-01-05,2024-08-31,2025-01-18,98,41,98,6.35,70,75,-55.0
+531469979,Powdered Sugar,Grains & Pulses,Skidoo,443882451,42 Mandrake Alley,continued,2025-02-05,2024-10-11,2024-08-08,21,15,27,2.5,37,41,-7.0
+657805622,Butter Biscuit,Bakery,InnoZ,694609770,65 Forster Way,continued,2025-02-05,2024-05-02,2024-05-27,74,81,41,6.0,51,67,-11.0
+298967926,White Rice,Grains & Pulses,Centidel,864004155,80930 Briar Crest Point,backordered,2025-01-06,2024-06-01,2024-05-06,20,20,56,1.8,62,69,-31.0
+670277269,Mushrooms,Fruits & Vegetables,Twitterbeat,500505707,615 Mayer Drive,backordered,2025-01-06,2024-11-30,2024-11-09,35,19,30,6.5,88,6,-11.0
+253532067,Papaya,Fruits & Vegetables,Brightbean,012103485,59449 Sherman Parkway,backordered,2025-01-06,2024-08-04,2024-07-25,81,16,69,4.3,23,96,93.0
+723411154,Heavy Cream,Dairy,Yodo,840906472,8682 Golf Course Junction,discontinued,2025-01-06,2024-10-31,2024-09-09,85,66,85,4.2,65,58,-317.0
+161875729,Black Tea,Beverages,Zoombeat,793667207,22555 Macpherson Plaza,continued,2025-01-06,2024-03-21,2024-03-30,45,58,84,5.0,90,67,11.0
+493113063,Kiwi,Fruits & Vegetables,Talane,159479718,71 Bultman Drive,discontinued,2025-02-06,2024-10-03,2024-07-03,47,75,53,6.0,70,20,26.0
+986529569,Butter Biscuit,Bakery,Ooba,651601426,32 6th Lane,discontinued,2025-02-06,2025-02-17,2024-06-23,12,7,23,6.0,72,16,71.0
+786898958,White Tea,Beverages,Chatterbridge,527446162,04 Mesta Parkway,continued,2025-01-07,2024-02-27,2024-03-29,20,43,43,25.0,73,6,78.0
+663787532,Blueberries,Fruits & Vegetables,Flipbug,153655585,88678 Bayside Park,backordered,2025-01-07,2024-06-05,2024-05-06,87,51,67,10.0,55,100,92.0
+141158371,Chocolate Biscuit,Bakery,Yakitri,808333051,40 Cody Pass,backordered,2025-01-07,2024-09-19,2024-09-01,23,76,70,5.0,97,38,-82.0
+765406407,Orange,Fruits & Vegetables,Demimbu,786445877,77 Prairie Rose Park,backordered,2025-02-07,2025-01-17,2024-12-13,92,54,73,3.1,79,1,61.0
+815730943,Egg (Chicken),Dairy,Topiclounge,077542313,20 Marcy Circle,continued,2025-02-07,2024-06-28,2024-11-14,22,58,2,0.2,33,68,99.0
+687325919,Jasmine Rice,Grains & Pulses,Eimbee,075002023,56 Bonner Point,backordered,2025-02-07,2024-10-29,2024-05-17,26,83,24,4.75,75,12,-106.0
+687341585,Greek Yogurt,Fruits & Vegetables,Meeveo,545375633,3 Hagan Drive,discontinued,2025-01-08,2024-04-16,2024-07-13,62,44,11,51.17,92,37,84.0
+933428794,Bread Flour,Grains & Pulses,Realblab,936881260,39102 Division Trail,backordered,2025-01-08,2024-12-07,2024-11-22,84,91,86,1.5,83,95,60.0
+421751648,Pomegranate,Fruits & Vegetables,Browsetype,672728844,72778 Loftsgordon Center,backordered,2025-01-08,2025-01-25,2024-09-09,81,87,15,6.0,94,10,-14.0
+460837058,Haddock,Seafood,Devshare,267300925,21530 Prentice Place,continued,2025-01-08,2024-08-27,2024-06-09,61,91,40,9.0,34,76,89.0
+667168221,Cheddar Cheese,Dairy,LiveZ,670249832,54 Weeping Birch Lane,backordered,2025-02-08,2024-06-24,2025-01-17,70,96,35,9.0,63,84,-124.0
+127145135,Ricotta Cheese,Dairy,Janyx,970552756,2003 Delladonna Pass,discontinued,2025-01-09,2025-01-14,2024-04-25,49,28,74,6.0,70,38,-33.0
+350311497,Green Coffee,Beverages,Linklinks,848351656,581 Oneill Crossing,continued,2025-01-09,2024-07-04,2024-11-02,20,68,20,12.0,38,51,46.0
+547087327,Jasmine Rice,Grains & Pulses,Linktype,463166919,8182 Hazelcrest Place,continued,2025-01-09,2024-03-28,2024-04-15,50,14,99,4.75,52,75,-34.0
+638978088,Zucchini,Fruits & Vegetables,Skibox,823134469,7944 Elgar Alley,backordered,2025-01-09,2024-06-07,2024-10-16,63,56,33,2.5,35,16,-44.0
+794942472,Green Beans,Fruits & Vegetables,Kanoodle,043918892,1615 Bellgrove Crossing,continued,2025-01-09,2024-04-19,2024-04-23,42,48,18,2.0,39,57,54.0
+156793935,Grapes,Fruits & Vegetables,Jabbersphere,359061010,95 Garrison Plaza,backordered,2025-02-09,2024-06-15,2025-02-20,22,69,87,5.5,34,26,-46.0
+316081445,Papaya,Fruits & Vegetables,Ntag,752864153,227 Tennyson Plaza,discontinued,2025-02-09,2025-02-15,2024-12-14,84,28,29,4.4,54,32,24.0
+702064860,Egg (Quail),Dairy,Meejo,825279395,75 High Crossing Junction,discontinued,2025-02-09,2024-03-11,2024-09-17,93,68,71,0.8,30,37,41.0
+308325429,Multigrain Bread,Bakery,Topicshots,418002842,894 Kingsford Road,backordered,2025-01-10,2024-10-05,2024-09-17,46,43,46,3.5,68,59,-23.0
+011730029,Blueberries,Fruits & Vegetables,DabZ,188807910,8 Dakota Avenue,continued,2025-01-10,2024-07-05,2024-04-12,42,4,53,10.0,37,53,13.0
+652357676,Whole Wheat Bread,Bakery,Quire,220833504,31208 Westerfield Way,continued,2025-01-10,2024-08-01,2024-06-03,91,71,17,3.5,74,57,-43.0
+794006216,Mozzarella Cheese,Dairy,Devpoint,833617509,4 Warbler Center,discontinued,2025-02-10,2024-03-10,2024-10-02,16,56,13,7.2,56,28,23.0
+358366718,Ricotta Cheese,Dairy,Thoughtblab,278384345,05 Canary Circle,backordered,2025-02-10,2025-01-25,2025-01-22,91,14,99,6.0,50,5,50.0
+085739997,Pomegranate,Fruits & Vegetables,Meevee,957344024,03 Little Fleur Pass,backordered,2025-02-10,2024-04-05,2024-12-02,26,1,9,6.0,82,8,90.0
+668545736,Kiwi,Fruits & Vegetables,Vitz,985911051,50880 Nobel Road,discontinued,2025-01-11,2024-12-23,2024-05-10,63,57,11,5.8,20,100,90.0
+858353445,Egg (Goose),Dairy,Gigashots,134334930,288 Fair Oaks Place,backordered,2025-01-11,2024-03-02,2024-05-12,50,93,37,2.45,78,79,-400.0
+107682443,Multigrain Bread,Bakery,Katz,444512764,4 Orin Lane,backordered,2025-02-11,2024-03-05,2024-12-19,93,55,95,3.25,56,72,-1.0
+191121616,Lettuce,Fruits & Vegetables,Quamba,552513001,7698 Logan Drive,continued,2025-01-12,2024-04-12,2024-06-28,88,56,72,2.0,25,36,-29.0
+893883239,Grapes,Fruits & Vegetables,Centizu,285217083,4346 Columbus Way,backordered,2025-02-12,2024-05-24,2024-04-19,54,88,43,5.5,81,77,-44.0
+227604605,Yogurt,Dairy,Bubblemix,014959336,09264 Forest Dale Drive,discontinued,2025-02-12,2024-07-07,2024-08-03,86,20,67,1.75,83,82,5.0
+386642155,Cauliflower,Fruits & Vegetables,Realpoint,105405841,843 Pepper Wood Hill,discontinued,2025-01-13,2024-04-12,2024-05-30,48,27,73,2.55,52,97,1.0
+897136071,Sesame Oil,Oils & Fats,Tazz,841237159,60 Dottie Hill,continued,2025-01-13,2024-11-19,2024-11-25,89,66,28,6.5,39,25,-87.0
+561916497,Bread Flour,Grains & Pulses,Bubblebox,653955947,844 Schurz Point,discontinued,2025-01-14,2024-10-04,2025-01-07,97,41,68,1.5,35,16,36.0
+273893529,Haddock,Seafood,Feedfish,732012803,234 Eagle Crest Avenue,continued,2025-01-14,2024-04-23,2024-03-09,84,8,54,9.0,60,38,54.0
+116046002,Canola Oil,Oils & Fats,Kimia,508624552,17640 Cottonwood Place,backordered,2025-01-14,2024-06-18,2024-05-29,69,17,27,2.3,79,75,37.0
+204482972,Asparagus,Fruits & Vegetables,Buzzbean,269206626,49770 Hoffman Court,discontinued,2025-01-14,2025-01-20,2024-09-16,80,6,92,5.0,26,71,5.0
+779591018,Lettuce,Fruits & Vegetables,Gigabox,009123545,03 Ryan Circle,backordered,2025-01-15,2024-04-30,2024-06-12,22,22,65,2.0,62,78,-173.0
+698953397,Cucumber,Fruits & Vegetables,Yabox,025752074,98 Melody Street,discontinued,2025-01-16,2025-01-16,2024-03-04,28,5,9,1.8,33,9,-26.0
+329330329,Blueberries,Fruits & Vegetables,Linklinks,867605412,57150 Del Sol Alley,continued,2025-01-17,2024-07-14,2024-04-15,23,38,54,10.0,40,15,73.0
+334402588,Bell Pepper,Fruits & Vegetables,Tagpad,685965506,4 6th Plaza,backordered,2025-01-17,2024-09-16,2025-02-24,26,12,43,4.4,73,20,63.0
+020857218,Cheddar Cheese,Dairy,Oyonder,419783326,2835 Schlimgen Parkway,backordered,2025-01-17,2024-06-25,2025-01-28,85,28,32,8.9,57,41,73.0
+431939915,Mozzarella Cheese,Dairy,Roodel,239312988,61 Transport Parkway,discontinued,2025-01-17,2024-07-12,2024-09-23,55,58,6,7.2,48,17,28.0
+629987250,Evaporated Milk,Dairy,Photobug,720023904,9171 Redwing Street,backordered,2025-01-18,2024-07-31,2024-10-05,72,3,10,2.0,52,14,65.0
+708714536,Swiss Cheese,Dairy,Cogilith,725147323,5 Waxwing Junction,continued,2025-01-19,2024-11-13,2024-06-17,29,4,17,8.0,59,52,73.0
+388228005,Cucumber,Fruits & Vegetables,Innojam,458861540,6 Stang Hill,backordered,2025-01-19,2025-01-12,2024-03-31,47,20,65,1.75,49,19,12.0
+383902115,Potato,Fruits & Vegetables,Rhyzio,124336490,3 Del Mar Point,continued,2025-01-19,2024-03-06,2024-03-01,42,69,54,1.2,43,96,61.0
+289684195,Eggplant,Fruits & Vegetables,Blogtag,175621176,5 Loftsgordon Trail,backordered,2025-01-19,2024-07-17,2024-10-13,97,52,80,3.0,22,90,-123.0
+092868107,Greek Yogurt,Dairy,Skyndu,907274816,75 Bunting Junction,discontinued,2025-01-20,2024-09-07,2024-12-15,90,62,54,3.0,70,83,-309.0
+004057428,Apple,Fruits & Vegetables,Zava,427462717,42 Mallory Court,discontinued,2025-01-20,2025-01-27,2025-01-12,81,74,45,3.5,42,23,-19.0
+438935408,Short Grain Rice,Grains & Pulses,Snaptags,254142945,6 Orin Place,discontinued,2025-01-21,2024-03-20,2024-08-24,60,90,85,3.0,47,9,45.0
+524815224,Kiwi,Fruits & Vegetables,Fiveclub,463822024,80 Old Shore Plaza,backordered,2025-01-21,2025-02-07,2025-02-15,45,24,61,6.0,44,34,81.0
+341318805,Yogurt,Dairy,Eimbee,844728001,44249 Sutteridge Crossing,discontinued,2025-01-21,2024-09-10,2024-12-22,92,92,28,1.75,50,67,23.0
+368402728,Mackerel,Seafood,Dabfeed,264547297,08545 Lillian Street,discontinued,2025-01-21,2024-08-10,2024-03-14,76,21,3,7.5,31,47,-34.0
+644188356,Sunflower Oil,Oils & Fats,Ooba,914512016,1 Green Hill,continued,2025-01-21,2024-11-13,2024-04-28,80,24,60,2.5,98,38,-52.0
+514620747,Lime,Fruits & Vegetables,Vinder,404179838,453 Dryden Park,backordered,2025-01-22,2025-02-07,2024-03-10,21,30,32,2.0,43,54,61.0
+747117160,Sushi Rice,Grains & Pulses,Meembee,406628853,44296 Kropf Avenue,backordered,2025-01-22,2024-12-28,2024-06-01,84,69,77,4.5,39,69,-26.0
+446375512,Watermelon,Fruits & Vegetables,Jaxspan,275412645,00064 Mosinee Circle,continued,2025-01-22,2025-01-12,2024-05-26,58,12,99,3.0,71,30,-77.0
+278811177,Green Tea,Beverages,Skalith,648075250,1223 Monument Drive,backordered,2025-01-23,2024-07-03,2024-11-23,34,47,99,8.0,97,47,58.0
+724045581,Almond Flour,Grains & Pulses,Pixonyx,180658014,879 Amoth Terrace,continued,2025-01-23,2024-08-07,2025-02-08,54,17,90,9.5,60,20,52.0
+120462988,Corn Oil,Oils & Fats,Youbridge,376302250,931 Browning Center,backordered,2025-01-25,2025-01-24,2024-11-21,17,63,66,2.5,23,46,67.0
+218161004,Black Coffee,Beverages,Realpoint,684824786,564 Hazelcrest Crossing,backordered,2025-01-26,2024-12-04,2024-07-22,84,13,88,15.0,25,34,-100.0
+816056246,Sardines,Seafood,Shufflester,620860407,65721 Caliangt Crossing,discontinued,2025-01-26,2024-03-02,2024-03-06,73,31,49,6.0,22,47,-36.0
+118157923,Parmesan Cheese,Dairy,Rhyloo,983048407,89 Springs Alley,continued,2025-01-26,2024-06-16,2024-08-06,96,9,57,11.8,78,67,-114.0
+264561992,Tilapia,Seafood,Geba,601593514,1792 Crownhardt Street,continued,2025-01-26,2024-12-23,2024-07-29,56,59,87,7.0,65,45,14.0
+631686018,Cucumber,Fruits & Vegetables,Bubblemix,018532191,0847 Artisan Hill,continued,2025-01-26,2024-10-03,2024-05-01,60,63,81,1.8,74,31,31.0
+708546891,Sourdough Bread,Bakery,Flashspan,795759351,24045 Bluestem Point,continued,2025-01-28,2024-11-28,2024-11-12,41,84,90,4.0,42,65,58.0
+877621317,Mozzarella Cheese,Dairy,Dazzlesphere,584743510,9305 Warrior Way,discontinued,2025-01-28,2024-11-20,2025-02-09,45,63,75,7.0,83,5,-55.0
+803745711,Herbal Tea,Beverages,Browsecat,775669826,13 Bluejay Way,backordered,2025-01-28,2024-10-05,2024-12-07,48,77,81,31.0,70,74,94.0
+604568169,Cheddar Cheese,Dairy,Oyoba,545294459,710 Service Park,backordered,2025-01-28,2024-02-28,2024-02-25,21,28,72,9.0,69,51,-6.0
+995435039,Lemon,Fruits & Vegetables,Livetube,636837396,71796 Waubesa Terrace,backordered,2025-01-28,2024-11-20,2024-07-29,65,88,20,2.5,89,37,26.0
+728109753,Sesame Oil,Oils & Fats,Yotz,173592527,545 Farwell Lane,continued,2025-01-28,2025-02-07,2024-12-12,14,84,15,6.5,51,73,58.0
+789564737,Sushi Rice,Grains & Pulses,Photobug,767120418,9 Burrows Junction,discontinued,2025-01-29,2024-05-19,2024-04-18,47,1,60,4.2,32,87,-43.0
+464158633,Apple,Fruits & Vegetables,Omba,324970478,5 Eggendart Parkway,backordered,2025-01-29,2024-11-17,2025-01-02,71,36,45,3.5,87,2,-172.0
+066115454,Peanut Oil,Oils & Fats,Bluezoom,437869229,16 Autumn Leaf Way,backordered,2025-01-30,2024-10-11,2024-11-16,64,21,13,4.0,51,26,98.0
+277835470,Feta Cheese,Dairy,Thoughtstorm,459976429,6 Tony Junction,discontinued,2025-01-30,2024-07-27,2024-03-16,74,65,5,7.0,21,42,49.0
+556975242,Ricotta Cheese,Dairy,Shufflebeat,747260855,19112 Little Fleur Road,discontinued,2025-01-31,2024-06-30,2024-09-24,51,53,88,6.0,54,59,-100.0
+150829124,Apricot,Fruits & Vegetables,LiveZ,029971489,38 Dawn Street,discontinued,2025-01-31,2024-10-08,2024-05-07,89,35,19,5.0,49,55,-9.0
+069963221,Evaporated Milk,Dairy,Buzzshare,978217402,579 Schlimgen Alley,discontinued,2024-10-13,2024-12-04,2024-06-10,11,9,65,2.0,48,96,-12.0
+456340679,Haddock,Seafood,Rhybox,295429338,9 Anhalt Trail,continued,2024-10-13,2024-02-28,2024-08-27,98,100,34,9.0,53,20,-100.0
+157963130,Rye Bread,Bakery,Kwilith,459122948,85 Lunder Court,continued,2024-10-14,2024-04-17,2024-05-29,50,58,78,3.0,83,49,62.0
+510008113,Green Tea,Beverages,Vidoo,568250880,51369 Dawn Hill,continued,2024-10-14,2025-01-31,2024-11-20,24,27,35,8.0,49,58,41.0
+203877746,Powdered Sugar,Grains & Pulses,Aivee,082189429,9050 Dorton Pass,continued,2024-10-14,2024-06-05,2024-10-27,64,10,100,2.5,97,52,-18.0
+829317126,Asparagus,Fruits & Vegetables,Vitz,675961997,856 School Plaza,discontinued,2024-10-14,2024-10-17,2024-05-12,34,95,18,5.0,41,26,46.0
+556317937,Greek Yogurt,Dairy,Avamba,795085241,82 Drewry Junction,continued,2024-10-15,2024-06-19,2025-01-21,26,54,90,3.0,25,81,37.0
+113384598,Potato,Fruits & Vegetables,Centimia,723606358,9067 Valley Edge Park,backordered,2024-10-16,2025-02-03,2025-02-23,72,58,69,1.2,96,23,-224.0
+524029245,Broccoli,Fruits & Vegetables,Plajo,375197762,185 Stone Corner Parkway,continued,2024-10-16,2025-02-12,2024-09-19,89,40,64,4.0,93,48,76.0
+095362626,Olive Oil,Oils & Fats,Fliptune,144835712,205 Straubel Court,continued,2024-10-17,2024-08-26,2024-03-21,83,52,32,6.0,47,7,48.0
+484270551,Arabica Coffee,Beverages,Jetpulse,019004509,2 7th Center,backordered,2024-10-17,2024-12-16,2024-11-03,13,55,77,20.0,67,68,85.0
+067066490,Green Tea,Beverages,Tanoodle,856706379,443 Browning Terrace,backordered,2024-10-18,2024-07-03,2024-03-15,15,66,85,8.0,60,40,-1.0
+291350791,Jasmine Rice,Grains & Pulses,Babblestorm,050504384,97 Utah Lane,backordered,2024-10-18,2024-12-21,2025-01-11,56,48,82,4.75,71,65,33.0
+896247462,Asparagus,Fruits & Vegetables,Jaxspan,395062186,25 Drewry Alley,backordered,2024-10-18,2025-02-16,2024-11-24,18,3,39,5.0,58,61,8.0
+822314245,Wild Rice,Grains & Pulses,Kayveo,961774040,77 Monument Court,discontinued,2024-10-18,2024-08-28,2025-01-16,32,91,80,10.0,69,80,-5.0
+422209305,White Sugar,Grains & Pulses,Zooxo,560927992,61932 Cascade Crossing,backordered,2024-10-19,2024-12-11,2024-10-14,91,98,6,2.0,100,20,-16.0
+029204829,White Bread,Bakery,Skyble,415874864,4 Judy Hill,backordered,2024-10-19,2024-06-14,2024-05-22,92,87,84,2.5,61,31,80.0
+618018665,Robusta Coffee,Beverages,Demivee,782839751,58 La Follette Park,discontinued,2024-10-19,2024-12-06,2024-06-24,42,88,17,10.5,34,51,49.0
+011445960,Trout,Seafood,Zazio,808487493,52105 Mandrake Place,continued,2024-10-20,2024-05-29,2024-07-13,75,25,99,12.0,89,42,-50.0
+985754736,Cucumber,Fruits & Vegetables,Flashset,444296199,83 Pleasure Street,continued,2024-10-20,2024-05-25,2024-09-17,76,11,15,1.8,22,91,53.0
+309962526,Green Beans,Fruits & Vegetables,Izio,309420054,77 Monterey Avenue,continued,2024-10-20,2024-02-28,2024-09-07,86,90,39,2.1,98,85,-314.0
+453804627,Cabbage,Fruits & Vegetables,Zoombox,202015639,0 Thackeray Point,discontinued,2024-10-20,2025-01-11,2025-02-16,90,1,40,0.9,52,19,13.0
+475486500,Onion,Fruits & Vegetables,Devpulse,270614764,06 Shopko Pass,discontinued,2024-10-20,2024-03-07,2024-12-25,20,93,37,2.0,23,2,63.0
+305917275,Brown Rice,Grains & Pulses,Oyondu,124319207,7020 Porter Trail,backordered,2024-10-21,2025-02-19,2025-01-18,17,88,41,2.5,45,29,91.0
+382966634,Peas,Fruits & Vegetables,Skipfire,410833955,160 Kings Street,discontinued,2024-10-22,2024-03-31,2024-12-10,49,46,8,3.0,82,21,36.0
+988586323,Swiss Cheese,Dairy,Janyx,790861717,80729 Homewood Plaza,continued,2024-10-22,2025-01-07,2024-11-16,20,17,71,8.0,50,65,74.0
+697430161,Bread Flour,Grains & Pulses,Twitterwire,297746779,583 Loftsgordon Road,discontinued,2024-10-22,2024-08-14,2024-11-21,99,54,71,1.5,80,10,-30.0
+710673278,Anchovies,Seafood,Twitterbridge,767979430,5521 Wayridge Center,backordered,2024-10-22,2024-05-08,2024-08-16,51,35,95,10.0,80,89,88.0
+241434957,Canola Oil,Oils & Fats,Katz,299684976,685 Independence Junction,discontinued,2024-10-22,2024-06-22,2024-08-15,25,97,63,2.3,72,23,-11.0
+313875020,Parmesan Cheese,Dairy,Buzzbean,028117933,854 Kipling Point,continued,2024-10-22,2024-12-17,2024-08-14,63,41,98,11.9,37,7,68.0
+333781365,Egg (Goose),Dairy,Tagchat,314839201,23560 Talmadge Center,continued,2024-10-22,2024-12-07,2025-02-04,50,66,1,2.5,76,73,81.0
+417295410,Sardines,Seafood,Ntag,717278611,7193 Crownhardt Drive,continued,2024-10-23,2024-04-05,2024-06-26,91,59,49,6.0,30,63,4.0
+333359140,Olive Oil,Oils & Fats,Blogspan,082091598,76928 Tennyson Parkway,continued,2024-10-24,2024-08-20,2024-08-27,28,17,28,6.0,38,25,-110.0
+400212400,Zucchini,Fruits & Vegetables,Katz,626482577,265 Columbus Way,continued,2024-10-24,2024-11-16,2024-05-11,29,18,86,2.5,53,69,34.0
+812685905,Mackerel,Seafood,Kazio,361389045,85953 Clyde Gallagher Drive,continued,2024-10-24,2024-07-30,2024-06-14,89,26,36,7.5,48,94,-30.0
+386177226,Mushrooms,Fruits & Vegetables,Bluezoom,912159838,33145 Butterfield Avenue,continued,2024-10-24,2024-06-19,2024-07-13,65,42,62,6.3,54,2,-96.0
+548229009,Cauliflower,Grains & Pulses,Shufflester,231979965,64389 Arkansas Alley,backordered,2024-10-25,2024-06-08,2025-01-03,40,38,32,3.2,21,45,96.0
+026553240,Rice Flour,Grains & Pulses,Jabberstorm,952001972,6738 Tennyson Road,discontinued,2024-10-25,2024-05-21,2024-06-20,99,44,52,2.0,36,2,-114.0
+018396534,Short Grain Rice,Grains & Pulses,Tanoodle,515194588,8 Hazelcrest Street,continued,2024-10-25,2025-02-04,2024-09-02,56,28,76,3.0,93,69,94.0
+984992220,Parmesan Cheese,Dairy,Skidoo,696662257,27 School Court,discontinued,2024-10-25,2024-04-22,2024-11-21,37,3,45,12.0,39,28,26.0
+691711305,Brown Rice,Grains & Pulses,Livetube,337337313,9951 Petterle Alley,continued,2024-10-26,2024-06-18,2024-10-11,31,29,57,2.5,25,22,28.0
+573944703,White Tea,Beverages,Agivu,521303457,38 Banding Lane,backordered,2024-10-26,2025-01-07,2024-10-16,81,83,36,25.0,74,86,12.0
+589465152,Bread Flour,Grains & Pulses,Avaveo,422014328,06 Lake View Trail,backordered,2024-10-26,2024-11-05,2024-07-10,11,77,7,1.5,77,46,-16.0
+745872065,Pear,Fruits & Vegetables,Gigaclub,331411402,84642 Clarendon Point,continued,2024-10-27,2025-02-20,2024-03-02,29,20,85,4.5,31,31,40.0
+692879113,Zucchini,Fruits & Vegetables,Jaxspan,209520731,11 Golden Leaf Alley,continued,2024-10-27,2024-06-29,2024-12-16,59,91,24,2.5,54,87,0.0
+034414252,Yogurt,Dairy,Wordpedia,114306041,6 Bobwhite Alley,backordered,2024-10-27,2024-06-28,2024-07-24,12,83,93,1.75,22,9,-61.0
+293443658,Lime,Fruits & Vegetables,Yata,335465056,7 Talmadge Street,discontinued,2024-10-27,2024-10-25,2024-09-19,75,56,57,1.9,63,64,59.0
+123424482,Trout,Seafood,Topicblab,713008176,374 Blue Bill Park Point,continued,2024-10-27,2024-09-30,2024-08-29,67,83,90,11.6,66,77,-2.0
+998944351,White Sugar,Grains & Pulses,Devpoint,456026533,185 Saint Paul Road,backordered,2024-10-27,2025-02-24,2024-12-25,29,54,54,2.0,58,63,-17.0
+347099237,Carrot,Fruits & Vegetables,Gigaclub,666808738,1509 Hoard Circle,discontinued,2024-10-27,2024-03-13,2024-04-24,61,81,99,1.5,26,76,-9.0
+054987751,Cauliflower,Fruits & Vegetables,Abata,179636051,30408 5th Way,continued,2024-10-28,2024-07-10,2024-03-24,52,22,37,2.5,56,44,-192.0
+322701385,Greek Yogurt,Fruits & Vegetables,Quaxo,810728266,0500 Calypso Pass,backordered,2024-10-28,2024-12-15,2024-08-08,28,38,23,42.58,48,56,21.0
+677105120,Bread Flour,Grains & Pulses,Skynoodle,001319278,978 Shasta Lane,continued,2024-10-29,2024-12-29,2024-02-25,84,92,18,1.5,92,69,-17.0
+377093532,Mushrooms,Fruits & Vegetables,Demivee,084393820,524 Saint Paul Park,backordered,2024-10-29,2024-11-07,2024-05-11,79,45,39,6.0,55,20,25.0
+603115701,Sesame Oil,Oils & Fats,Shuffledrive,075787055,9 Meadow Vale Drive,backordered,2024-10-29,2024-10-19,2024-07-17,39,78,97,6.5,54,89,64.0
+970934278,Buttermilk,Dairy,Twitterlist,382004863,467 Dexter Pass,discontinued,2024-10-29,2024-04-09,2024-06-01,69,98,89,2.55,29,34,-65.0
+411313841,Almond Flour,Grains & Pulses,Camido,552691746,16 Fair Oaks Pass,backordered,2024-10-29,2025-01-23,2024-03-20,77,19,31,9.5,27,25,-17.0
+406301431,Cherry,Fruits & Vegetables,Voomm,610409004,8119 Homewood Drive,discontinued,2024-10-29,2024-07-11,2024-11-07,29,66,21,8.0,74,93,7.0
+644935270,Palm Oil,Oils & Fats,Dynabox,369649838,4571 Fremont Way,continued,2024-10-30,2024-05-23,2024-05-22,69,59,29,1.8,63,91,-26.0
+072198017,Palm Oil,Oils & Fats,Skibox,951489287,357 High Crossing Parkway,continued,2024-10-31,2024-08-13,2024-11-08,40,2,58,1.8,71,10,-44.0
+737514393,Onion,Fruits & Vegetables,Skyndu,144865626,03 Roth Court,discontinued,2024-10-31,2024-06-07,2024-03-23,68,10,29,2.0,37,11,86.0
+509422409,Peas,Fruits & Vegetables,Meedoo,694724067,7182 Summit Court,backordered,2024-10-31,2024-04-23,2024-12-10,75,91,68,3.0,96,73,70.0
+010186418,Chocolate Biscuit,Bakery,Chatterbridge,788886073,481 Mifflin Hill,backordered,2024-11-13,2024-09-27,2024-07-16,68,29,100,5.0,70,26,24.0
+597254038,Arabica Coffee,Beverages,Zoozzy,390551703,697 Hoepker Center,continued,2024-11-13,2024-08-26,2024-08-23,78,34,39,20.5,62,2,63.0
+409972786,Yogurt,Dairy,Browsecat,187434684,5551 Mallory Lane,backordered,2024-11-14,2024-05-23,2024-10-14,76,98,41,1.75,62,48,97.0
+117668738,Watermelon,Fruits & Vegetables,Jabbersphere,963931428,20 Nelson Way,discontinued,2024-11-14,2024-11-30,2024-03-22,27,64,43,3.0,70,58,23.0
+408604532,Arabica Coffee,Beverages,Yadel,736255112,988 Southridge Way,continued,2024-11-15,2024-02-27,2025-02-05,74,72,18,21.0,83,54,17.0
+559362406,Bread Flour,Grains & Pulses,Mynte,296895014,52691 8th Drive,continued,2024-11-16,2024-03-09,2024-04-05,27,93,88,1.5,66,13,35.0
+628168794,Rice Flour,Grains & Pulses,Photobug,561105754,04 Blaine Lane,backordered,2024-11-16,2024-06-17,2025-02-06,15,76,81,2.0,90,26,80.0
+041046993,Buttermilk,Dairy,Trilia,067761072,55095 Northview Drive,continued,2024-11-16,2024-08-27,2024-10-15,60,1,42,2.45,42,91,71.0
+358355591,Tilapia,Seafood,Fiveclub,548764296,509 Carpenter Trail,backordered,2024-11-17,2024-06-05,2024-03-08,95,63,73,7.0,61,38,-117.0
+837046367,Arabica Coffee,Beverages,Feedmix,416288713,298 Corry Plaza,discontinued,2024-11-17,2024-09-02,2024-09-07,21,87,12,21.0,20,38,38.0
+607710879,Blueberries,Fruits & Vegetables,Kayveo,905540576,9 Karstens Center,discontinued,2024-11-17,2025-02-11,2024-05-03,89,15,22,10.0,79,42,-90.0
+272695260,Pineapple,Fruits & Vegetables,Rhyloo,547248610,1661 Springview Terrace,continued,2024-11-17,2024-03-15,2024-10-22,14,81,65,3.5,74,84,47.0
+200310532,Mango,Fruits & Vegetables,Oyoloo,358358848,8239 Laurel Way,discontinued,2024-11-17,2024-07-25,2024-11-09,32,63,92,4.9,84,34,-14.0
+193230506,Halibut,Seafood,Skidoo,289773789,5 Ohio Lane,backordered,2024-11-17,2024-04-28,2024-10-15,68,43,96,20.0,75,35,60.0
+464529419,Egg (Duck),Dairy,Wordify,671374215,55782 Welch Hill,continued,2024-11-18,2024-11-14,2024-07-08,43,10,15,1.0,27,69,53.0
+904920564,Pomegranate,Fruits & Vegetables,Shuffledrive,180851667,54 Pawling Crossing,discontinued,2024-11-18,2024-06-25,2024-07-20,92,96,56,6.0,32,22,-156.0
+173951121,Plum,Fruits & Vegetables,Lajo,672523923,8 Oriole Terrace,backordered,2024-11-18,2024-10-08,2024-12-03,85,16,74,3.85,58,36,31.0
+834009746,Mozzarella Cheese,Dairy,Eidel,025100629,40 Merchant Terrace,continued,2024-11-18,2024-07-12,2024-02-29,24,1,65,7.0,58,61,38.0
+198543663,Watermelon,Fruits & Vegetables,Dabjam,725097548,4 Dakota Avenue,backordered,2024-11-19,2024-05-05,2024-12-14,13,88,11,3.0,100,52,-5.0
+571670669,Haddock,Seafood,Rhybox,309343251,1005 Lyons Junction,discontinued,2024-11-21,2025-02-17,2024-12-30,19,99,78,9.0,29,54,48.0
+769541442,Arabica Coffee,Beverages,Mynte,682008955,43024 Elka Avenue,backordered,2024-11-22,2024-04-24,2024-03-18,97,77,99,20.0,74,98,-86.0
+837635038,Buttermilk,Dairy,Jatri,264388349,5 Armistice Parkway,backordered,2024-11-22,2024-09-09,2024-10-23,52,64,54,2.4,21,55,-32.0
+803759075,Swiss Cheese,Dairy,Centidel,864873354,3831 Goodland Road,discontinued,2024-11-23,2024-10-20,2024-06-19,96,34,57,8.0,71,17,-162.0
+873919658,Corn Oil,Oils & Fats,Centizu,510541226,92486 Laurel Alley,discontinued,2024-11-23,2024-09-18,2025-01-07,26,100,13,2.5,45,45,76.0
+677256830,Brown Rice,Grains & Pulses,Quinu,057270033,9 Victoria Point,backordered,2024-11-23,2024-08-11,2024-06-18,51,47,6,2.5,53,4,0.0
+120939863,Arborio Rice,Grains & Pulses,Feednation,214163796,6748 Mitchell Road,continued,2024-11-23,2025-02-09,2024-06-26,51,19,96,4.5,73,42,92.0
+444087594,Eggplant,Fruits & Vegetables,Eire,088283804,81 Oneill Circle,backordered,2024-11-24,2024-05-01,2025-01-08,39,21,5,3.0,51,98,42.0
+046378815,Apricot,Fruits & Vegetables,Zoonder,609596355,537 Maple Alley,continued,2024-11-24,2024-11-27,2024-11-24,90,91,62,5.0,34,72,-92.0
+887469468,Onion,Fruits & Vegetables,Skiba,061591957,82737 Ryan Place,continued,2024-11-25,2025-02-03,2024-11-14,35,92,74,2.0,76,32,-112.0
+329875559,Green Tea,Beverages,Zoovu,016650053,7 Hallows Alley,backordered,2024-11-25,2025-01-30,2024-05-15,39,88,100,8.0,28,18,58.0
+024840206,Short Grain Rice,Grains & Pulses,Quatz,620119357,60 Main Pass,continued,2024-11-25,2024-08-20,2024-08-02,64,97,91,3.0,48,100,36.0
+804417249,Wild Rice,Grains & Pulses,Yoveo,359796839,652 High Crossing Lane,continued,2024-11-25,2024-04-14,2024-08-10,98,30,39,10.0,31,26,-108.0
+413168427,Arborio Rice,Grains & Pulses,Realcube,758673635,03416 Valley Edge Circle,continued,2024-11-26,2024-09-06,2024-09-21,95,93,16,4.5,60,19,16.0
+566685370,Vegetable Oil,Oils & Fats,Vimbo,135261392,05686 Golden Leaf Point,discontinued,2024-11-26,2024-09-10,2024-08-03,70,96,21,2.0,100,15,68.0
+451727012,Papaya,Fruits & Vegetables,Brightbean,957219228,11 Kedzie Avenue,continued,2024-11-26,2024-12-13,2024-12-01,20,91,12,4.5,35,50,85.0
+930150811,Pineapple,Fruits & Vegetables,Gigashots,070555188,1 Pleasure Hill,discontinued,2024-11-26,2024-08-05,2024-06-26,18,7,58,3.5,88,96,-43.0
+520292382,Coconut Oil,Oils & Fats,Brightdog,164744516,08896 Evergreen Avenue,discontinued,2024-11-26,2024-08-15,2024-04-08,54,86,69,5.0,29,8,-9.0
+280444102,Papaya,Fruits & Vegetables,Yakijo,933581118,309 Burning Wood Center,discontinued,2024-11-26,2024-03-01,2024-08-27,19,28,83,4.5,91,73,72.0
+348614446,Ricotta Cheese,Dairy,Photobug,406964237,113 Donald Court,continued,2024-11-27,2025-01-18,2025-01-06,66,40,8,6.0,43,49,20.0
+803340215,Grapes,Fruits & Vegetables,Camimbo,191563869,611 Waubesa Circle,discontinued,2024-11-27,2024-04-30,2024-06-22,88,27,92,5.5,57,37,-14.0
+946972396,Sourdough Bread,Bakery,Zoomlounge,341617429,44 Thompson Terrace,discontinued,2024-11-27,2024-02-26,2024-07-07,71,97,44,4.0,58,14,35.0
+760274850,Onion,Fruits & Vegetables,Tavu,752565638,425 Shasta Terrace,continued,2024-11-27,2024-08-26,2024-06-24,39,37,48,2.0,25,19,76.0
+159073681,Plum,Fruits & Vegetables,Brainsphere,729319828,21633 Sycamore Center,discontinued,2024-11-28,2025-01-27,2025-02-20,20,42,21,3.85,61,25,24.0
+006418691,Black Coffee,Beverages,Brainverse,348240575,797 Mcbride Lane,discontinued,2024-11-28,2024-09-24,2024-08-30,33,22,94,15.0,96,56,59.0
+157621058,Lime,Fruits & Vegetables,Tazz,329141424,083 Mccormick Park,backordered,2024-11-29,2025-02-07,2025-01-04,29,83,91,2.0,81,53,42.0
+577794955,Black Rice,Grains & Pulses,Zazio,848699980,38436 Anthes Way,backordered,2024-11-29,2024-12-01,2025-01-20,92,48,22,6.25,38,61,35.0
+684361268,Egg (Duck),Dairy,Aivee,106946636,1 Mockingbird Parkway,backordered,2024-11-30,2024-08-17,2024-07-11,70,92,74,1.0,95,26,-61.0
+260001012,Parmesan Cheese,Dairy,Quatz,602841974,3 Bayside Point,backordered,2024-11-30,2024-11-29,2024-04-12,65,54,29,12.0,69,79,73.0
+750941179,Rye Bread,Bakery,Vitz,576150729,13 Forest Run Place,discontinued,2024-12-13,2025-02-09,2024-07-18,26,79,31,3.0,47,41,-14.0
+110329778,Peas,Fruits & Vegetables,Edgepulse,423808881,553 Mayfield Crossing,backordered,2024-12-13,2025-01-27,2024-08-19,99,1,4,3.0,50,53,13.0
+244788277,Multigrain Bread,Bakery,Bubblebox,640707611,55276 Golf Hill,continued,2024-12-13,2025-01-12,2024-11-26,47,26,40,3.25,30,72,-6.0
+122399399,Potato,Fruits & Vegetables,Tagtune,535841853,924 La Follette Alley,continued,2024-12-14,2024-07-29,2024-10-27,28,40,27,1.2,30,56,-140.0
+833217887,Egg (Duck),Dairy,Yombu,704449176,35598 Fuller Terrace,discontinued,2024-12-14,2024-11-29,2024-08-02,44,75,72,1.0,96,38,-87.0
+803713695,Cottage Cheese,Dairy,Divape,422547371,163 Esch Pass,backordered,2024-12-15,2024-11-30,2024-12-10,89,42,76,5.0,94,81,60.0
+491996836,Tomato,Fruits & Vegetables,Thoughtbeat,819997392,77 Brown Circle,discontinued,2024-12-15,2024-12-30,2024-08-24,100,64,62,2.5,84,44,14.0
+855102915,White Bread,Bakery,Mybuzz,551342668,8 Merrick Lane,discontinued,2024-12-16,2024-05-29,2024-10-09,62,49,38,2.5,42,44,48.0
+086379335,Lettuce,Fruits & Vegetables,Meemm,991780951,9 Cardinal Alley,backordered,2024-12-16,2024-03-06,2024-07-25,100,7,14,2.0,26,33,-5.0
+852122729,Egg (Turkey),Dairy,Browsecat,582266435,93 Longview Junction,backordered,2024-12-17,2024-12-21,2024-05-16,42,94,79,2.5,61,92,-27.0
+514694611,Long Grain Rice,Grains & Pulses,Fivebridge,620290827,04776 Saint Paul Park,discontinued,2024-12-18,2024-05-24,2025-01-07,62,81,91,1.6,100,42,-51.0
+349282775,Coconut,Fruits & Vegetables,Browseblab,079593210,7945 Mayer Center,discontinued,2024-12-18,2025-02-24,2025-01-28,19,47,25,5.0,96,37,58.0
+326761026,Salmon,Seafood,Buzzshare,981559583,9433 Jenna Lane,backordered,2024-12-18,2024-06-04,2024-04-16,52,46,12,15.0,43,34,61.0
+530808252,Sourdough Bread,Bakery,Thoughtstorm,737447022,2 Grayhawk Junction,discontinued,2024-12-19,2024-09-24,2024-11-20,30,85,21,4.5,32,83,21.0
+495267806,Kale,Fruits & Vegetables,Yodoo,669734855,6744 Helena Pass,continued,2024-12-19,2024-11-19,2024-05-01,77,52,28,4.0,48,43,-159.0
+311571822,Ricotta Cheese,Dairy,Kwideo,539981422,803 Cottonwood Crossing,discontinued,2024-12-19,2024-07-30,2025-01-28,96,80,20,6.1,94,49,10.0
+914263204,Haddock,Seafood,Geba,861844829,269 Dakota Trail,backordered,2024-12-19,2024-04-14,2024-07-08,67,71,4,9.0,76,34,48.0
+641097362,Anchovies,Seafood,Voolia,386036412,7 Harper Drive,backordered,2024-12-19,2024-07-09,2024-09-29,86,55,96,10.0,37,53,55.0
+684186724,Parmesan Cheese,Dairy,Feedspan,754656257,49869 Bunker Hill Terrace,continued,2024-12-21,2025-01-13,2024-09-30,63,4,85,12.0,59,71,-43.0
+938132419,Digestive Biscuit,Bakery,Dynabox,122644503,7407 Farragut Pass,continued,2024-12-21,2024-04-09,2024-06-22,39,16,57,4.0,98,12,-20.0
+521238039,Pomegranate,Fruits & Vegetables,Browsebug,240875935,7 Schiller Court,backordered,2024-12-21,2024-09-03,2025-01-16,43,65,66,6.0,78,73,88.0
+746665671,Tuna,Seafood,Youspan,586577257,11263 Kipling Hill,backordered,2024-12-21,2024-05-10,2024-05-04,37,33,80,18.0,27,73,6.0
+261616692,Zucchini,Fruits & Vegetables,Kare,617967912,70001 Vahlen Lane,discontinued,2024-12-22,2024-09-07,2024-09-19,61,90,26,2.5,79,84,-170.0
+443687112,Corn Oil,Oils & Fats,Devbug,859787855,82 Hintze Court,discontinued,2024-12-22,2024-05-02,2024-12-06,28,32,71,2.5,32,49,-6.0
+018205784,Egg (Duck),Dairy,Skipfire,805675598,6982 Crownhardt Circle,continued,2024-12-23,2025-02-12,2024-04-26,63,38,77,1.0,23,18,-53.0
+103789729,Cabbage,,Rooxo,839419620,2 Butterfield Pass,discontinued,2024-12-23,2024-11-26,2024-09-21,69,21,68,66.55,36,35,22.0
+394795147,Tuna,Seafood,Meedoo,021567270,14 Talmadge Park,discontinued,2024-12-24,2024-08-18,2024-04-04,92,68,79,18.0,40,57,3.0
+952626208,Black Tea,Beverages,Devshare,662271125,44662 American Plaza,discontinued,2024-12-24,2024-04-15,2024-07-29,19,78,90,5.0,72,84,-43.0
+372486266,Pear,Fruits & Vegetables,Youspan,755537424,7051 Calypso Place,backordered,2024-12-24,2024-10-17,2024-05-24,84,74,48,4.5,64,32,-17.0
+438519440,Lime,Fruits & Vegetables,Camido,676740287,4033 Sloan Hill,backordered,2024-12-24,2024-05-11,2024-03-04,14,75,19,1.9,100,84,50.0
+110530107,Cherry,Fruits & Vegetables,Rooxo,074102867,734 Thackeray Avenue,continued,2024-12-25,2024-07-12,2024-06-28,30,25,11,8.0,42,76,16.0
+286080039,Lemon,Fruits & Vegetables,Avavee,267960872,31057 Roth Place,backordered,2024-12-26,2024-05-21,2024-04-15,63,60,54,2.5,33,31,-81.0
+963342593,White Tea,Beverages,Rhycero,648313071,9559 Muir Trail,continued,2024-12-26,2024-06-27,2024-11-19,60,27,58,25.3,43,91,6.0
+730108323,Tuna,Seafood,Tagcat,806226587,811 Dapin Center,backordered,2024-12-26,2024-02-27,2024-04-29,16,34,89,18.0,35,52,-112.0
+862739377,White Rice,Grains & Pulses,Eimbee,383305543,1 Hollow Ridge Park,discontinued,2024-12-26,2024-12-04,2024-11-29,18,86,20,1.8,64,34,-49.0
+353534068,Bread Flour,Grains & Pulses,Jetpulse,441996832,8583 Northwestern Terrace,discontinued,2024-12-26,2024-12-18,2024-07-05,64,11,97,1.5,33,83,47.0
+029748526,Onion,Fruits & Vegetables,Mudo,093871119,42 Green Ridge Terrace,backordered,2024-12-26,2024-04-05,2024-08-07,74,4,39,2.0,97,24,-152.0
+952529619,Carrot,Fruits & Vegetables,Skynoodle,388192922,57453 Northwestern Alley,backordered,2024-12-27,2024-12-07,2024-11-09,92,39,50,1.6,30,41,75.0
+434697551,Arabica Coffee,Beverages,Rhycero,643614238,760 Butternut Plaza,continued,2024-12-27,2024-05-26,2025-01-25,45,36,97,20.0,36,6,-37.0
+084956853,Heavy Cream,Dairy,Yadel,074320137,7943 Amoth Parkway,continued,2024-12-27,2025-01-13,2024-08-14,74,62,6,4.0,65,96,83.0
+835560996,Powdered Sugar,Grains & Pulses,Jabberstorm,812340741,53 Forest Run Plaza,continued,2024-12-27,2025-02-20,2024-10-30,88,34,94,2.4,95,63,-48.0
+652820419,White Tea,Beverages,Feedbug,859321011,509 Waywood Center,continued,2024-12-28,2024-07-17,2024-12-05,50,100,91,25.5,29,31,34.0
+954491286,Egg (Chicken),Dairy,Realfire,182607354,1 Jackson Pass,backordered,2024-12-29,2024-12-23,2024-09-08,10,17,70,0.2,100,63,-7.0
+005349775,Black Coffee,Beverages,Tagpad,799556260,68 Dakota Center,backordered,2024-12-29,2024-05-23,2024-08-17,87,91,23,14.9,90,75,37.0
+096182842,White Sugar,Grains & Pulses,Yambee,684151025,642 Arizona Point,discontinued,2024-12-29,2024-03-21,2024-08-06,38,82,17,2.0,52,47,17.0
+746102295,Green Coffee,Beverages,Lajo,229596357,87 Bluestem Parkway,continued,2024-12-30,2024-03-16,2024-09-26,61,31,100,12.5,95,61,10.0
+172651899,Orange,Fruits & Vegetables,Demimbu,617930279,4826 Drewry Center,backordered,2024-12-30,2024-03-25,2025-02-10,81,35,82,3.0,86,71,36.0
+063365482,Sardines,Seafood,Voolia,997844391,7 Mockingbird Hill,discontinued,2024-12-31,2024-03-08,2024-08-24,89,34,15,6.0,60,2,17.0
+202830111,Pear,Fruits & Vegetables,Cogidoo,603948955,0 Ruskin Way,continued,2024-12-31,2024-04-17,2025-01-06,58,55,5,4.45,62,89,97.0
+779371108,White Sugar,Grains & Pulses,Twimm,410070132,01 Hansons Crossing,continued,2024-12-31,2024-04-23,2024-04-12,39,83,21,2.0,73,88,-44.0
+073379889,Cauliflower,Fruits & Vegetables,Twitterwire,849498378,4 Loomis Way,continued,2024-12-31,2024-08-15,2024-09-29,95,6,59,2.5,49,77,-21.0
+815787404,Gouda Cheese,Dairy,Rhyloo,901776733,5989 Longview Drive,continued,2025-02-13,2024-08-11,2024-04-06,67,79,98,7.0,73,36,-57.0
+903031821,Onion,Fruits & Vegetables,Edgewire,967860667,6435 Burning Wood Drive,backordered,2025-02-13,2024-08-03,2024-10-05,50,20,74,2.0,30,57,51.0
+424957698,Sushi Rice,Grains & Pulses,Latz,936254768,91 Gateway Pass,backordered,2025-02-13,2024-10-08,2024-07-22,10,11,29,4.3,29,72,-90.0
+571010060,Whole Wheat Flour,Grains & Pulses,Topicstorm,400705881,78919 East Crossing,backordered,2025-02-13,2025-01-01,2024-09-11,59,73,86,2.75,32,56,-148.0
+995614871,Haddock,Seafood,Buzzdog,047865408,952 Rowland Junction,continued,2025-02-14,2024-08-20,2024-07-28,17,38,93,9.0,100,63,-75.0
+401260515,Carrot,Fruits & Vegetables,Gigashots,783790369,28351 Cascade Plaza,continued,2025-02-14,2024-03-04,2024-12-18,74,37,57,1.5,91,18,37.0
+193775021,Mackerel,Seafood,Skynoodle,340145873,884 Sloan Drive,backordered,2025-02-14,2024-08-11,2024-12-24,91,96,90,7.5,90,75,80.0
+606446596,Trout,Seafood,Rhynoodle,327458366,22 Hudson Pass,discontinued,2025-02-14,2025-01-05,2024-11-10,89,67,89,12.0,96,42,17.0
+827110772,Egg (Goose),Dairy,Skyble,788771866,463 Oxford Crossing,continued,2025-02-15,2024-05-16,2024-10-23,72,58,52,2.4,36,14,56.0
+558033964,Bread Flour,Grains & Pulses,Demizz,759061086,149 Valley Edge Point,backordered,2025-02-16,2024-08-26,2024-10-30,25,60,36,1.5,31,41,61.0
+001198780,Halibut,Seafood,Jaxspan,147032550,21 Sunbrook Court,backordered,2025-02-17,2024-07-16,2024-03-04,40,81,78,20.0,39,65,-32.0
+138880149,Lime,Fruits & Vegetables,Shufflebeat,099026272,1 Logan Road,continued,2025-02-17,2024-12-30,2024-03-15,75,18,65,2.0,32,92,-67.0
+512734240,Multigrain Bread,Bakery,Devpulse,325060556,7 Prairieview Place,discontinued,2025-02-18,2024-09-26,2024-06-20,85,57,25,3.5,30,42,-188.0
+233953157,Vegetable Oil,Oils & Fats,Tagtune,485388538,74 Sugar Plaza,backordered,2025-02-18,2024-07-30,2024-03-16,41,66,50,2.0,55,74,-40.0
+031499760,Whipped Cream,Dairy,Yotz,081412402,554 Eliot Point,discontinued,2025-02-19,2024-07-13,2024-03-26,92,99,93,4.0,43,90,-35.0
+028957781,Coconut Sugar,Grains & Pulses,Tagchat,231092205,2582 Autumn Leaf Park,discontinued,2025-02-19,2024-09-26,2025-01-24,51,55,76,5.0,21,13,-109.0
+953548583,Long Grain Rice,Grains & Pulses,Meevee,020579401,848 Mariners Cove Junction,continued,2025-02-19,2025-02-11,2024-10-20,98,40,93,1.5,30,53,38.0
+276815588,Anchovies,Seafood,Flipopia,899592254,498 Delladonna Drive,discontinued,2025-02-19,2024-10-26,2024-12-07,100,99,8,10.0,54,92,-77.0
+705347796,Zucchini,Fruits & Vegetables,Babblestorm,620448874,76106 Anthes Junction,backordered,2025-02-19,2024-06-25,2025-01-17,43,21,31,2.5,22,25,-70.0
+720664597,Broccoli,Fruits & Vegetables,Zoovu,979940773,03 Fisk Alley,continued,2025-02-20,2024-12-08,2024-12-13,31,54,52,4.0,69,77,-14.0
+798848810,Cucumber,Fruits & Vegetables,Dabtype,141080409,546 Declaration Place,backordered,2025-02-20,2024-12-06,2024-08-15,12,93,29,1.75,45,12,-12.0
+087031382,Peach,Fruits & Vegetables,Wikizz,299753449,082 Clove Plaza,backordered,2025-02-21,2024-03-06,2024-06-21,40,53,7,4.0,70,20,73.0
+393153936,Heavy Cream,Dairy,Yata,990347010,850 Glacier Hill Drive,backordered,2025-02-21,2024-09-25,2024-08-10,57,62,72,4.0,23,4,71.0
+066902335,Jasmine Rice,Grains & Pulses,Jabbertype,663174895,5 Linden Terrace,discontinued,2025-02-22,2024-06-16,2024-05-07,24,15,6,4.75,35,4,83.0
+431538268,Vegetable Oil,Oils & Fats,Abata,198095654,29815 Bonner Trail,backordered,2025-02-23,2025-01-29,2024-10-02,75,61,19,2.0,79,69,89.0
+446348292,Whole Wheat Flour,Grains & Pulses,Quatz,485575036,46 Orin Drive,continued,2025-02-23,2024-03-09,2025-01-02,60,69,64,2.75,51,6,13.0
+967740457,Cod,Seafood,Izio,719915737,7369 Thackeray Drive,discontinued,2025-02-24,2024-03-12,2024-10-22,56,50,80,8.0,99,5,88.0
+509304751,Salmon,Seafood,Abata,402608547,80380 Valley Edge Road,discontinued,2025-02-24,2024-06-24,2024-02-25,88,40,29,15.0,96,87,95.0
+639188253,Mango,Fruits & Vegetables,Devpulse,941571762,917 Westerfield Terrace,backordered,2025-02-24,2024-07-04,2024-09-29,53,98,23,5.0,41,84,9.0
+846291532,Arabica Coffee,Beverages,Chatterpoint,503784320,7 Sloan Park,discontinued,2024-02-25,2024-11-27,2024-07-20,22,89,25,21.0,30,62,-105.0
+773126317,Spinach,Fruits & Vegetables,Abatz,129504397,3616 Carey Pass,discontinued,2024-02-26,2024-09-13,2024-10-01,41,29,76,2.4,59,4,-107.0
+216938216,Corn Oil,Oils & Fats,Twinte,625998388,32468 Utah Pass,continued,2024-02-26,2024-09-03,2024-10-27,70,96,85,2.5,34,3,93.0
+744308245,Peach,Fruits & Vegetables,Ainyx,512135660,7 Roxbury Circle,backordered,2024-02-26,2024-08-15,2024-03-06,73,90,77,4.0,75,19,91.0
+394490772,Feta Cheese,Dairy,Youfeed,845047617,195 Portage Junction,backordered,2024-02-27,2024-04-02,2024-10-05,94,13,15,7.0,20,24,75.0
+513128608,Cheddar Cheese,Dairy,Jabbersphere,063150552,406 Westridge Alley,continued,2024-02-27,2024-10-02,2024-04-29,68,60,21,8.9,79,46,-20.0
+895433456,Blueberries,Fruits & Vegetables,Jaloo,231788962,22782 Oriole Way,continued,2024-02-28,2024-06-22,2025-02-06,66,40,96,10.0,24,61,42.0
+578614379,Swiss Cheese,Dairy,Feedmix,733834390,64407 Marcy Plaza,backordered,2024-02-28,2024-05-15,2025-02-04,93,8,51,8.0,93,85,-154.0
+397688205,Egg (Turkey),Dairy,Gigabox,079874536,32 Rigney Terrace,backordered,2024-02-28,2024-07-17,2024-11-29,56,97,29,2.5,82,100,9.0
+951309020,Heavy Cream,Dairy,Youbridge,759856744,2 Canary Street,continued,2024-02-28,2024-06-20,2025-01-21,82,12,94,4.1,69,93,-22.0
+025751980,Plum,Fruits & Vegetables,Yambee,611008296,34832 Autumn Leaf Terrace,continued,2024-02-28,2024-07-09,2024-11-24,11,58,32,4.0,99,94,-35.0
+228956595,Rice Flour,Grains & Pulses,Topicblab,184455057,34642 Carpenter Place,continued,2024-02-29,2024-06-04,2024-11-21,31,32,69,2.0,38,23,5.0
+852074164,Eggplant,Fruits & Vegetables,Tanoodle,070673439,41 Comanche Park,backordered,2024-02-29,2025-02-06,2024-12-10,97,20,72,3.0,29,59,39.0
+267993714,Robusta Coffee,Beverages,Mymm,508770990,49225 Homewood Place,continued,2024-02-29,2025-02-03,2024-04-06,74,2,45,10.0,37,99,-103.0
+579036434,Tomato,Fruits & Vegetables,Shuffledrive,304603122,34 Linden Court,continued,2024-03-13,2024-03-10,2024-03-23,44,67,15,2.5,82,51,-168.0
+802276886,Garlic,Fruits & Vegetables,Layo,916327343,4374 Corry Terrace,continued,2024-03-13,2025-01-12,2024-06-14,33,4,31,7.0,46,92,38.0
+312559616,Tuna,Seafood,Centimia,110319939,9440 Coleman Drive,backordered,2024-03-14,2024-12-28,2024-03-16,88,71,9,18.0,28,14,-100.0
+376101999,Halibut,Seafood,Wikizz,199859694,3 John Wall Point,discontinued,2024-03-14,2024-10-19,2024-10-19,14,67,65,20.0,71,94,50.0
+863300214,Arabica Coffee,Beverages,Jayo,878407803,5818 Twin Pines Place,backordered,2024-03-15,2025-02-18,2024-03-30,36,64,63,20.0,91,35,-32.0
+295927315,Arborio Rice,Grains & Pulses,Dabtype,618673019,21625 Schlimgen Park,continued,2024-03-15,2024-07-04,2024-09-22,56,4,74,4.5,61,73,62.0
+862574613,Jasmine Rice,Grains & Pulses,Kwilith,704024816,5 Prentice Pass,discontinued,2024-03-15,2024-08-23,2024-08-05,44,26,60,4.75,63,59,-20.0
+793505841,Jasmine Rice,Grains & Pulses,Gabvine,816763345,75 Cascade Avenue,discontinued,2024-03-15,2024-09-05,2024-04-17,33,44,89,4.75,93,19,6.0
+223297791,Watermelon,Fruits & Vegetables,Eidel,720132438,50687 Porter Park,discontinued,2024-03-16,2025-01-13,2024-09-19,53,41,30,3.0,24,77,80.0
+108545467,Canola Oil,Oils & Fats,Realcube,404433362,3 Oakridge Parkway,discontinued,2024-03-16,2024-05-04,2024-11-26,96,51,40,2.3,61,4,-221.0
+706122531,Pineapple,Fruits & Vegetables,Flipbug,942174781,4 Raven Drive,discontinued,2024-03-17,2025-01-25,2024-10-30,48,48,39,3.45,51,50,93.0
+715161996,Corn Oil,Oils & Fats,Tagfeed,043917610,12 Truax Court,continued,2024-03-18,2024-05-07,2024-06-20,96,52,16,2.5,67,13,2.0
+719992404,Mango,Fruits & Vegetables,Meezzy,012850018,18 Warrior Circle,continued,2024-03-18,2024-08-05,2025-01-29,58,58,28,4.7,85,63,81.0
+298756900,Papaya,Fruits & Vegetables,Avaveo,780984468,2 Sachtjen Park,discontinued,2024-03-18,2025-01-23,2024-08-22,45,28,6,4.5,35,16,26.0
+119223342,Black Coffee,Beverages,Gabspot,335239077,094 Carberry Lane,discontinued,2024-03-18,2024-06-10,2024-03-04,24,77,32,15.5,80,42,54.0
+745627431,Vanilla Biscuit,Bakery,Linkbridge,661749633,79 Ronald Regan Avenue,backordered,2024-03-18,2024-03-20,2024-11-01,94,34,21,5.5,74,70,48.0
+953572870,Arborio Rice,Grains & Pulses,Talane,753657696,87 Corben Street,discontinued,2024-03-18,2024-05-13,2024-05-20,86,80,80,4.5,22,67,5.0
+042775245,Coconut Sugar,Grains & Pulses,Bubblebox,901757764,911 Ridgeway Way,backordered,2024-03-19,2024-07-28,2024-06-18,20,51,21,5.0,71,26,-205.0
+911057317,Orange,Fruits & Vegetables,Devshare,840470017,44022 Barnett Way,discontinued,2024-03-20,2024-12-28,2025-02-02,85,45,71,3.0,95,72,63.0
+372460018,Broccoli,Fruits & Vegetables,Skilith,619070994,52 Alpine Crossing,discontinued,2024-03-20,2025-01-14,2024-04-11,30,59,76,4.0,61,3,24.0
+274740056,Spinach,Fruits & Vegetables,Feedfish,569693705,538 Bayside Parkway,backordered,2024-03-20,2024-12-19,2024-06-19,23,6,40,2.5,95,24,95.0
+124398428,Eggplant,Fruits & Vegetables,Ainyx,435426868,6 Rusk Pass,backordered,2024-03-21,2024-09-14,2024-05-31,17,3,33,3.0,49,17,75.0
+566574387,White Bread,Bakery,Meevee,786297560,5 Lyons Street,backordered,2024-03-21,2024-02-29,2024-06-22,61,77,45,2.5,51,48,65.0
+912909062,Digestive Biscuit,Bakery,Zoonder,956091485,9821 Novick Hill,backordered,2024-03-21,2024-04-19,2024-09-25,29,2,84,4.0,80,85,6.0
+065035891,Egg (Goose),Dairy,Babblestorm,190982529,49646 Derek Lane,backordered,2024-03-22,2024-09-23,2024-03-16,40,22,74,2.45,76,70,-6.0
+370647275,Robusta Coffee,Beverages,Skiptube,635222633,149 Lawn Way,discontinued,2024-03-22,2024-06-25,2024-09-22,20,42,45,10.0,72,28,8.0
+219935632,Watermelon,Fruits & Vegetables,Innotype,268604618,16730 Luster Alley,continued,2024-03-23,2024-04-14,2024-10-23,51,72,85,3.0,23,17,61.0
+057208792,Carrot,Fruits & Vegetables,Linkbridge,332654588,2 Northview Avenue,continued,2024-03-24,2024-07-08,2024-10-26,80,91,36,1.5,81,74,26.0
+365314087,Almond Flour,Grains & Pulses,Skaboo,831725527,2 Columbus Drive,discontinued,2024-03-24,2024-10-25,2024-03-14,85,12,94,9.5,26,32,9.0
+616809496,Apple,Fruits & Vegetables,Wikido,754481356,2 Northridge Street,discontinued,2024-03-24,2024-10-05,2024-04-14,17,14,17,3.5,36,64,-23.0
+366364873,Black Rice,Grains & Pulses,Wikivu,110983982,451 Grim Hill,continued,2024-03-25,2025-01-17,2024-05-30,86,100,74,6.1,80,94,-78.0
+459925653,Whole Wheat Flour,Grains & Pulses,Jaxworks,220505775,5 Fisk Point,backordered,2024-03-25,2024-07-07,2024-10-19,82,67,67,2.75,26,1,-18.0
+857815386,Salmon,Seafood,Avavee,894396947,10577 Thierer Plaza,discontinued,2024-03-25,2024-03-20,2024-12-28,78,68,86,15.0,47,95,96.0
+764592392,Palm Oil,Oils & Fats,Fivebridge,910306609,2005 Mccormick Road,backordered,2024-03-26,2024-04-13,2024-05-24,74,4,67,1.8,31,34,-102.0
+927910606,Short Grain Rice,Grains & Pulses,Photobean,560501773,739 Grayhawk Trail,discontinued,2024-03-26,2024-04-28,2024-09-06,18,62,2,3.0,61,78,-10.0
+871992743,Papaya,Fruits & Vegetables,Demivee,549076531,38695 Kenwood Circle,continued,2024-03-26,2024-09-15,2024-11-12,59,74,100,4.5,63,69,-28.0
+040381547,Rye Bread,Bakery,Realblab,619129541,76 Shelley Pass,discontinued,2024-03-26,2024-11-24,2024-06-08,48,2,16,2.8,27,1,-10.0
+839177384,Garlic,Fruits & Vegetables,Tavu,849235086,3 Ilene Terrace,discontinued,2024-03-27,2024-08-24,2024-05-11,76,97,20,7.0,52,82,96.0
+945256925,Rye Bread,Bakery,Kwilith,318926816,667 Arkansas Circle,discontinued,2024-03-27,2024-05-16,2024-09-17,50,56,63,3.0,70,100,-58.0
+166321308,Arabica Coffee,Beverages,Voonyx,459030036,60094 Goodland Junction,backordered,2024-03-27,2024-05-21,2024-11-21,23,13,15,20.0,31,28,-43.0
+137983397,Egg (Turkey),Dairy,Twimm,899926472,93321 Kennedy Point,continued,2024-03-27,2024-05-09,2024-12-20,86,16,37,2.5,34,66,10.0
+698342874,Oatmeal Biscuit,Bakery,Skajo,516006076,39 Oxford Drive,discontinued,2024-03-27,2024-06-25,2024-10-07,28,62,81,5.0,28,30,-94.0
+603433288,Tilapia,Seafood,Vipe,229406543,6 Hanover Terrace,backordered,2024-03-28,2025-01-01,2024-05-03,85,92,66,6.7,54,85,-7.0
+216509319,White Bread,Bakery,Jazzy,734453017,4 Hagan Court,backordered,2024-03-28,2025-01-28,2024-04-24,42,88,95,2.5,67,94,-57.0
+145502152,Green Tea,Beverages,Livepath,600032919,3 Forster Point,continued,2024-03-29,2024-06-18,2024-11-17,51,1,61,7.6,96,26,-40.0
+615827399,Apricot,Fruits & Vegetables,Topiczoom,150626342,8 Hanover Center,discontinued,2024-03-29,2025-02-05,2024-07-22,73,83,74,5.0,87,10,73.0
+281074953,Chocolate Biscuit,Bakery,Babbleblab,011658830,29755 Daystar Street,discontinued,2024-03-29,2024-11-12,2024-10-18,53,19,94,5.0,82,56,89.0
+530508242,Mackerel,Seafood,Yodoo,311635871,9 Cordelia Trail,backordered,2024-03-30,2024-03-16,2025-02-15,82,25,94,7.5,66,14,32.0
+885868797,Grapes,Fruits & Vegetables,Edgewire,025305932,9469 Bayside Plaza,continued,2024-03-30,2024-08-25,2025-02-09,98,62,97,5.5,59,19,79.0
+937723085,Banana,Fruits & Vegetables,Edgetag,618070746,07359 Porter Park,continued,2024-03-30,2024-07-18,2025-01-20,39,19,18,13.99,58,90,68.0
+040011793,Green Coffee,Beverages,Oozz,293590109,0 Stoughton Terrace,backordered,2024-03-31,2025-02-02,2024-04-09,43,38,63,12.0,88,65,-55.0
+101379759,Watermelon,Fruits & Vegetables,Trupe,236886256,402 Kings Road,backordered,2024-03-31,2024-09-03,2024-03-10,90,17,17,3.0,82,84,26.0
+966828546,Egg (Chicken),Dairy,Kaymbo,038823517,97 Walton Avenue,backordered,2024-03-31,2024-10-26,2024-09-17,70,29,24,0.2,62,55,-2.0
+076176934,Coconut Sugar,Grains & Pulses,Feedfire,487008059,9262 Sullivan Crossing,continued,2024-03-31,2024-12-21,2024-11-16,91,39,48,5.0,48,18,11.0
+431645984,Butter,Dairy,Shuffletag,100086747,70862 Lighthouse Bay Junction,discontinued,2024-04-13,2024-06-17,2024-11-23,36,75,35,2.9,26,41,63.0
+070741196,Plum,Fruits & Vegetables,Skajo,691126969,27 New Castle Avenue,backordered,2024-04-14,2025-01-10,2024-10-10,11,56,62,3.9,40,5,-58.0
+051938096,Grapes,Fruits & Vegetables,Rhynoodle,867095618,38 Rutledge Plaza,backordered,2024-04-14,2024-03-19,2024-07-08,82,21,85,5.5,39,18,88.0
+928378839,Vegetable Oil,Oils & Fats,Yoveo,954843134,95 Lerdahl Park,discontinued,2024-04-14,2025-01-16,2024-08-18,23,71,32,2.0,63,23,54.0
+603437973,Multigrain Bread,Bakery,Zoombox,063034127,85408 Toban Crossing,backordered,2024-04-15,2024-04-29,2024-04-09,56,86,23,3.2,67,56,63.0
+762640748,Eggplant,Fruits & Vegetables,Roombo,275572375,55 Morning Terrace,continued,2024-04-15,2024-06-01,2025-01-09,47,41,63,3.0,39,54,16.0
+671304114,Bell Pepper,Fruits & Vegetables,Devcast,537181768,9327 Hanover Way,backordered,2024-04-15,2024-02-27,2025-01-24,84,26,37,4.5,46,67,-38.0
+999610767,Heavy Cream,Dairy,Tambee,789545649,40113 Blaine Place,continued,2024-04-16,2024-10-25,2024-12-06,85,15,30,4.0,95,63,-46.0
+242286840,Herbal Tea,Beverages,Myworks,262805472,68241 Hanson Circle,backordered,2024-04-16,2024-08-09,2024-11-28,27,1,3,30.0,34,63,34.0
+835734586,Sesame Oil,Oils & Fats,Thoughtbeat,911912324,84575 Randy Point,backordered,2024-04-17,2024-10-19,2024-07-18,77,95,82,6.5,29,46,-85.0
+806980324,Butter Biscuit,Bakery,Bluejam,985877923,7 Duke Parkway,continued,2024-04-17,2025-02-04,2024-05-25,84,58,28,6.0,51,12,-59.0
+835683475,Halibut,Seafood,Camimbo,109500546,29150 Farmco Crossing,backordered,2024-04-17,2024-04-04,2025-02-10,35,72,70,20.0,74,15,76.0
+158467959,Zucchini,Fruits & Vegetables,Vidoo,470260505,6251 Eliot Hill,discontinued,2024-04-17,2024-12-01,2024-03-20,98,14,11,2.5,48,38,80.0
+981480940,Egg (Chicken),Dairy,Babblestorm,061759657,588 Waywood Trail,continued,2024-04-17,2024-04-02,2024-11-05,63,62,18,0.2,67,17,21.0
+763259093,Sesame Oil,Oils & Fats,Feedbug,679223399,01471 Burrows Lane,discontinued,2024-04-18,2024-10-19,2024-12-18,27,92,56,6.5,29,32,75.0
+100347654,Bread Flour,Grains & Pulses,Zava,272924656,21 Esker Way,backordered,2024-04-18,2024-10-25,2024-05-28,70,96,92,1.5,27,58,-10.0
+216338696,Coconut Sugar,Grains & Pulses,Topiclounge,894682696,08492 Gateway Terrace,discontinued,2024-04-18,2024-04-06,2024-05-26,49,59,73,5.0,93,45,-115.0
+741814135,Egg (Chicken),Dairy,Meembee,004872428,79878 Katie Trail,discontinued,2024-04-18,2024-03-17,2024-09-17,22,19,4,0.2,88,24,52.0
+980644465,Mozzarella Cheese,Dairy,Feedfire,937199817,109 Twin Pines Avenue,continued,2024-04-19,2024-10-01,2024-11-11,96,38,17,7.0,72,84,73.0
+414755305,Rye Bread,Bakery,Kwideo,939001170,88 Hooker Parkway,backordered,2024-04-19,2024-03-13,2024-09-12,61,20,29,3.0,71,97,-17.0
+809884653,Zucchini,Fruits & Vegetables,Livetube,022720535,8 Russell Pass,discontinued,2024-04-20,2024-09-14,2024-04-19,43,66,85,2.5,66,65,-37.0
+515836029,Digestive Biscuit,Bakery,Kanoodle,780243286,83894 Delaware Plaza,continued,2024-04-20,2024-08-18,2025-02-18,38,43,91,4.0,72,64,2.0
+632707076,Multigrain Bread,Bakery,Roombo,855320172,6 Lunder Parkway,backordered,2024-04-21,2024-06-12,2025-01-24,65,36,37,3.5,32,70,11.0
+701496756,Heavy Cream,Dairy,Skynoodle,971509199,6 Messerschmidt Place,discontinued,2024-04-21,2025-01-06,2024-06-26,14,99,97,4.2,28,45,-119.0
+989099395,Cottage Cheese,Dairy,Feedfire,741195491,43 Heath Street,backordered,2024-04-22,2024-08-31,2024-12-07,67,98,92,5.0,35,98,-61.0
+356212546,Swiss Cheese,Dairy,Skiptube,141902260,3 Fairfield Center,discontinued,2024-04-22,2024-04-07,2025-02-15,85,89,41,8.0,68,93,-180.0
+245796500,Anchovies,Seafood,Zoovu,603095783,4 Stang Place,continued,2024-04-22,2024-06-12,2024-09-04,93,51,70,10.0,81,18,-37.0
+017038441,Raw Sugar,Grains & Pulses,Cogilith,912167668,4029 Lotheville Pass,backordered,2024-04-23,2025-01-01,2024-06-21,100,10,89,1.5,76,38,78.0
+617966540,Ricotta Cheese,Dairy,Fliptune,400028400,126 Spohn Plaza,discontinued,2024-04-24,2024-06-02,2024-08-14,88,4,79,6.0,23,39,50.0
+163548122,Digestive Biscuit,Bakery,BlogXS,616048116,66 Raven Pass,backordered,2024-04-25,2025-01-22,2024-11-27,97,99,96,4.0,57,42,-70.0
+675129754,Egg (Turkey),Dairy,DabZ,359412585,69 Orin Plaza,discontinued,2024-04-25,2024-07-21,2024-03-22,19,100,83,2.5,66,28,26.0
+113168405,Mango,Fruits & Vegetables,Twitternation,509181373,108 Morning Center,discontinued,2024-04-26,2025-02-24,2024-11-25,24,55,51,5.0,39,15,58.0
+363722295,Basmati Rice,Grains & Pulses,Skimia,858237428,98 Bartillon Trail,backordered,2024-04-26,2024-10-22,2024-04-14,55,13,71,4.45,37,4,62.0
+840757647,Canola Oil,Oils & Fats,Mydeo,958898592,51 7th Court,discontinued,2024-04-27,2024-10-21,2025-02-22,91,82,58,2.3,43,45,89.0
+082265155,Bell Pepper,Fruits & Vegetables,Zava,645847898,81503 Graedel Plaza,backordered,2024-04-27,2024-05-01,2024-04-27,49,93,15,4.5,52,31,-5.0
+464962930,Pomegranate,Fruits & Vegetables,Eare,292959755,156 Golf Course Alley,backordered,2024-04-27,2024-10-26,2024-08-14,66,28,7,6.0,85,6,40.0
+002157434,Egg (Goose),Dairy,Quatz,852723969,389 Ridgeway Park,backordered,2024-04-28,2025-02-19,2024-11-28,14,63,74,2.5,59,63,93.0
+128281063,Mozzarella Cheese,Dairy,Buzzdog,487075857,018 Oxford Crossing,discontinued,2024-04-28,2024-03-29,2024-08-05,36,82,85,7.1,27,67,-7.0
+487706319,Egg (Duck),Dairy,Fivebridge,644522395,34 Fremont Point,backordered,2024-04-28,2024-11-21,2025-02-02,52,31,18,1.0,77,16,-148.0
+443051866,Butter,Dairy,Jayo,251903172,51205 Rieder Junction,discontinued,2024-04-29,2024-07-02,2024-08-29,48,71,86,3.0,95,3,79.0
+972834840,Palm Oil,Oils & Fats,Browsetype,646041679,7232 Ridgeway Center,backordered,2024-04-29,2024-05-12,2025-02-24,58,23,66,1.8,82,61,97.0
+353288392,Long Grain Rice,Grains & Pulses,Ainyx,523404509,09 Londonderry Hill,backordered,2024-04-29,2024-03-18,2024-04-21,39,2,71,1.45,20,70,26.0
+436932092,Butter,Dairy,Kayveo,194699841,76 Toban Plaza,discontinued,2024-04-30,2024-10-21,2024-09-22,51,100,70,3.0,40,21,-250.0
+478025023,Cod,Seafood,Buzzster,510108144,7096 Mcguire Park,continued,2024-04-30,2024-10-18,2024-06-07,16,20,45,8.0,81,62,48.0
+240091208,White Tea,Beverages,Aivee,964054286,99 Duke Lane,backordered,2024-04-30,2024-06-10,2025-02-06,62,31,24,25.0,89,100,23.0
+985565323,Pomegranate,Fruits & Vegetables,Dynabox,214908051,005 Tomscot Hill,continued,2024-05-13,2024-08-12,2024-08-27,60,61,2,6.0,96,50,-12.0
+145214167,Buttermilk,Dairy,Vinder,686091972,00847 Reindahl Place,discontinued,2024-05-13,2024-06-29,2024-03-06,47,2,76,2.5,48,36,48.0
+616077622,Egg (Duck),Dairy,Zoonoodle,771752969,329 Helena Park,discontinued,2024-05-13,2025-02-21,2025-01-15,23,38,25,1.0,84,78,25.0
+068494869,Sesame Oil,Oils & Fats,Rhycero,394647300,041 Paget Alley,discontinued,2024-05-13,2025-02-19,2024-07-15,85,15,16,6.5,46,24,7.0
+415264036,Whipped Cream,Dairy,Flashset,459237206,38726 Gina Pass,backordered,2024-05-13,2024-03-02,2025-01-29,55,25,87,4.0,69,48,48.0
+495708214,Sour Cream,Dairy,Realblab,173455800,1823 Elgar Park,backordered,2024-05-13,2024-05-27,2024-12-18,81,76,10,4.0,68,100,30.0
+855614694,Kiwi,Fruits & Vegetables,Tazz,574868971,1 Lake View Trail,discontinued,2024-05-15,2024-08-15,2024-05-11,28,27,22,6.0,70,30,-47.0
+266295920,Rye Bread,Bakery,Jetwire,192647608,77563 Russell Lane,continued,2024-05-15,2024-07-16,2024-12-14,99,6,88,3.0,49,9,57.0
+750299003,Sourdough Bread,Bakery,Eadel,619174271,19180 Hagan Parkway,discontinued,2024-05-16,2024-10-07,2024-04-01,34,42,86,4.0,28,23,82.0
+794288753,Cabbage,Fruits & Vegetables,Skivee,295217910,9 Holmberg Circle,continued,2024-05-16,2024-07-06,2024-12-30,62,79,95,1.0,34,12,18.0
+343697712,Apricot,Fruits & Vegetables,Fivebridge,952419348,0 Lerdahl Parkway,discontinued,2024-05-16,2024-05-11,2024-06-06,55,96,40,5.0,23,47,65.0
+221419798,White Sugar,Grains & Pulses,Photobean,598499942,6 Nobel Junction,backordered,2024-05-18,2024-09-20,2024-04-30,47,7,63,2.0,29,20,-104.0
+389243007,Peas,Fruits & Vegetables,Photolist,839365065,6 Anthes Court,backordered,2024-05-18,2025-01-05,2024-04-17,12,28,11,3.0,46,88,31.0
+700055970,Apple,Fruits & Vegetables,Skaboo,184904140,82955 Dayton Street,discontinued,2024-05-18,2024-10-02,2024-12-24,84,46,80,3.5,66,84,-91.0
+190215024,Broccoli,Fruits & Vegetables,Rhyzio,753695047,4 Heffernan Lane,continued,2024-05-19,2025-02-13,2024-05-07,47,63,86,4.0,76,29,-27.0
+314036234,Tuna,Seafood,Thoughtbeat,002582525,35 Waxwing Center,continued,2024-05-20,2024-11-24,2024-05-04,87,24,66,18.0,22,34,62.0
+190474239,Peach,Fruits & Vegetables,Quire,111469880,7 West Street,backordered,2024-05-21,2024-03-30,2024-04-30,47,72,73,4.0,93,27,-55.0
+290923453,Spinach,Fruits & Vegetables,Youbridge,418679911,676 Redwing Trail,continued,2024-05-22,2024-05-07,2024-06-17,61,17,69,2.52,31,29,71.0
+289561320,Greek Yogurt,Dairy,Thoughtblab,014458931,95 Onsgard Way,discontinued,2024-05-23,2024-10-18,2024-09-05,62,2,98,3.0,50,11,6.0
+880695486,Cod,Seafood,Buzzshare,958781614,01330 Sheridan Way,continued,2024-05-23,2024-07-13,2024-05-01,31,87,19,8.0,41,10,78.0
+977102449,Rye Bread,Bakery,Tanoodle,396769308,0 Miller Pass,backordered,2024-05-23,2025-01-23,2024-06-19,28,94,80,2.8,31,1,76.0
+842720790,Blueberries,Fruits & Vegetables,Eidel,006354638,53 Caliangt Junction,backordered,2024-05-23,2024-11-18,2024-07-29,28,86,44,10.0,48,12,97.0
+896026755,Milk,Dairy,BlogXS,510543811,4 Bashford Court,discontinued,2024-05-23,2025-02-07,2024-07-17,74,90,26,1.0,24,11,75.0
+631629244,Eggplant,Fruits & Vegetables,Vimbo,589452944,04 Rockefeller Terrace,continued,2024-05-24,2024-08-11,2024-05-17,49,89,65,3.0,37,48,54.0
+495794325,Ricotta Cheese,Dairy,Eadel,985585813,6 Anniversary Circle,discontinued,2024-05-24,2024-08-22,2024-05-17,64,95,62,6.0,55,1,-30.0
+965037712,White Bread,Bakery,Twitterbridge,973255889,84148 Prairie Rose Center,backordered,2024-05-25,2024-07-28,2025-01-19,93,76,82,2.5,76,51,98.0
+562130577,Papaya,Fruits & Vegetables,Kwinu,723068602,851 Hollow Ridge Center,backordered,2024-05-25,2024-05-23,2024-09-17,24,25,52,4.5,24,77,33.0
+249893302,Coconut,Fruits & Vegetables,Eazzy,891590852,736 Redwing Parkway,backordered,2024-05-25,2024-06-03,2024-07-30,85,90,16,5.0,61,80,-221.0
+799202395,Mushrooms,Fruits & Vegetables,Chatterpoint,708257341,911 Merry Junction,continued,2024-05-26,2024-05-08,2024-07-16,81,23,17,6.25,92,78,-31.0
+731181117,Olive Oil,Oils & Fats,Layo,555578544,482 Green Center,discontinued,2024-05-27,2024-05-05,2024-11-13,52,88,55,6.0,100,46,15.0
+656746076,Egg (Quail),Dairy,Ntags,169333355,9738 Old Shore Trail,continued,2024-05-27,2024-10-06,2024-12-18,78,61,6,0.8,49,60,54.0
+663125511,Anchovies,Seafood,Skipfire,995536838,959 Dorton Pass,discontinued,2024-05-27,2024-04-10,2024-12-15,44,97,76,10.0,80,33,-22.0
+580055343,Cucumber,Fruits & Vegetables,Youbridge,834012709,43211 Lakeland Place,discontinued,2024-05-27,2024-05-03,2024-08-21,38,94,87,1.8,89,100,59.0
+407950753,Raw Sugar,Grains & Pulses,Mydo,471834911,66879 Susan Place,backordered,2024-05-28,2025-02-22,2024-05-30,31,43,80,1.5,46,78,-12.0
+734015721,Haddock,Seafood,Midel,386225251,582 Sauthoff Crossing,discontinued,2024-05-28,2024-10-28,2024-12-26,46,28,73,9.0,65,57,-70.0
+536805293,Cheddar Cheese,Dairy,Demizz,477324446,97687 Mendota Terrace,continued,2024-05-28,2024-05-31,2024-08-24,88,74,97,9.0,79,5,12.0
+021705225,Raw Sugar,Grains & Pulses,Eabox,909409550,36 Bobwhite Parkway,discontinued,2024-05-28,2024-09-18,2025-02-23,90,75,43,1.5,80,57,94.0
+556800982,Green Tea,Beverages,Jetpulse,574125368,0 Sutteridge Trail,discontinued,2024-05-28,2025-01-14,2024-08-19,64,66,28,8.0,25,52,29.0
+484146162,Arabica Coffee,Beverages,Skivee,100608515,17780 Lindbergh Junction,continued,2024-05-29,2024-11-08,2024-05-05,55,93,84,20.0,46,84,-108.0
+716315875,Salmon,Seafood,Feedfish,918591733,13 Loomis Alley,discontinued,2024-05-29,2024-09-09,2024-10-25,88,83,42,15.0,61,59,-83.0
+345381180,Sour Cream,Dairy,Voonder,409074937,19 Aberg Trail,backordered,2024-05-29,2024-11-03,2024-04-06,29,39,80,4.0,23,85,3.0
+489576116,Eggplant,Fruits & Vegetables,Topicstorm,343346888,938 Hanover Point,discontinued,2024-05-30,2024-05-16,2024-08-05,31,44,9,3.0,46,9,-270.0
+322610008,Heavy Cream,Dairy,Oyoyo,260735798,2 Kingsford Center,discontinued,2024-05-30,2025-02-18,2024-07-18,63,48,22,4.0,21,90,80.0
+341101040,Bell Pepper,Fruits & Vegetables,Leenti,144276604,42397 Knutson Place,discontinued,2024-05-30,2024-06-09,2024-06-24,75,85,27,4.5,26,68,-329.0
+741325528,Cauliflower,Fruits & Vegetables,Vinder,417131053,611 Fieldstone Drive,backordered,2024-05-30,2024-03-21,2025-01-22,63,62,98,2.5,62,45,-162.0
+157974824,Coconut,Fruits & Vegetables,Mudo,468304835,25923 Loeprich Junction,backordered,2024-05-30,2024-11-20,2025-01-14,32,27,26,5.0,38,79,27.0
+768540095,White Sugar,Grains & Pulses,Mydeo,388833382,7834 Cordelia Alley,backordered,2024-05-31,2025-02-08,2024-12-28,65,61,82,2.0,29,11,-108.0
+940923355,Cauliflower,Fruits & Vegetables,Flashspan,766412070,929 Thierer Lane,discontinued,2024-06-13,2024-12-01,2024-08-04,57,43,46,2.5,87,88,62.0
+991945600,Cauliflower,Fruits & Vegetables,Tanoodle,700646828,973 Spaight Place,continued,2024-06-14,2024-02-25,2024-05-14,57,25,98,2.5,78,37,-1.0
+402058252,Multigrain Bread,Bakery,Innojam,684930378,883 Marcy Place,backordered,2024-06-14,2024-10-05,2024-07-14,38,37,27,3.5,45,88,53.0
+696745387,Yogurt,Dairy,Miboo,043130298,6211 Hanson Terrace,discontinued,2024-06-15,2024-06-27,2025-02-01,59,27,63,1.75,92,82,-96.0
+042936969,Peach,Fruits & Vegetables,Linktype,690876645,0 Oak Valley Lane,continued,2024-06-15,2024-09-02,2024-08-20,37,38,24,4.0,93,32,11.0
+218902826,Gouda Cheese,Dairy,Avaveo,323711686,84 Hoffman Way,continued,2024-06-15,2024-05-04,2024-09-19,48,12,62,7.0,59,23,66.0
+657593721,Butter Biscuit,Bakery,Vipe,216345781,315 Acker Alley,discontinued,2024-06-16,2024-05-24,2024-12-28,33,60,67,6.0,20,7,61.0
+363833677,Corn Oil,Oils & Fats,Centizu,880206814,7 Anzinger Lane,discontinued,2024-06-16,2024-05-29,2025-02-02,32,38,23,2.5,52,11,65.0
+845467624,Cherry,Fruits & Vegetables,Gigazoom,347309079,61057 Hallows Junction,continued,2024-06-16,2024-04-08,2024-06-01,43,41,100,8.0,27,78,79.0
+778270820,Sesame Oil,Oils & Fats,Youopia,465907639,8851 Superior Park,continued,2024-06-16,2024-11-06,2024-11-09,97,20,8,6.5,51,51,-189.0
+575622358,Black Coffee,Beverages,Quamba,226446447,00 6th Parkway,backordered,2024-06-17,2025-01-19,2025-02-04,37,94,76,15.0,94,66,0.0
+932188108,Heavy Cream,Dairy,Talane,059666460,9848 Little Fleur Point,backordered,2024-06-17,2024-05-22,2024-11-17,74,60,27,4.0,99,68,30.0
+813544203,Haddock,Seafood,Yabox,154665131,12 Luster Terrace,discontinued,2024-06-18,2024-06-27,2024-04-28,76,57,78,9.0,52,86,31.0
+576135779,Gouda Cheese,Dairy,Thoughtblab,290099132,6 John Wall Plaza,backordered,2024-06-19,2024-03-11,2024-08-29,100,21,64,7.0,20,13,-65.0
+499198798,Evaporated Milk,Dairy,Gigabox,824823670,3 Dottie Junction,discontinued,2024-06-19,2024-08-04,2024-10-10,64,31,91,1.9,85,42,35.0
+705424269,Gouda Cheese,Dairy,Gigazoom,277727906,7 Victoria Hill,continued,2024-06-19,2024-04-23,2024-04-17,41,22,11,7.0,86,30,51.0
+436708544,Orange,Fruits & Vegetables,Camido,166564821,3 Logan Trail,discontinued,2024-06-20,2024-05-14,2024-10-07,84,95,22,2.85,48,82,65.0
+294366570,Digestive Biscuit,Bakery,Quatz,121407809,30590 Bowman Alley,discontinued,2024-06-20,2024-09-27,2024-09-17,61,8,45,4.0,73,64,-71.0
+106177581,Peanut Oil,Oils & Fats,Devpulse,869957254,0 Lawn Parkway,continued,2024-06-20,2024-03-30,2024-06-17,24,14,5,4.0,98,9,12.0
+507722613,Cheddar Cheese,Dairy,Roomm,746194608,7 Lunder Hill,backordered,2024-06-20,2024-05-19,2024-03-23,86,23,1,9.0,100,86,91.0
+265354727,Tilapia,Seafood,Jamia,179391338,4 Darwin Circle,backordered,2024-06-21,2024-08-17,2024-04-29,93,25,23,7.0,72,83,14.0
+886028210,Avocado Oil,Oils & Fats,Skajo,264119126,042 Di Loreto Court,backordered,2024-06-22,2024-06-19,2024-09-28,99,96,39,10.0,94,89,-15.0
+839663280,Mackerel,Seafood,Twitterworks,503053936,0743 4th Place,backordered,2024-06-22,2024-10-13,2024-09-20,30,29,70,7.5,80,43,5.0
+212521360,Corn Oil,Oils & Fats,Shuffletag,283141189,32 Charing Cross Pass,backordered,2024-06-22,2024-09-04,2024-07-04,75,23,34,2.5,100,54,46.0
+899224773,Whole Wheat Flour,Grains & Pulses,Mudo,994550707,11 Thackeray Hill,continued,2024-06-22,2024-07-02,2024-12-27,39,53,64,2.75,92,8,46.0
+158847413,Apple,Fruits & Vegetables,Geba,394127454,6225 Westend Pass,discontinued,2024-06-22,2024-05-23,2024-04-16,77,58,13,3.5,63,28,91.0
+822433180,Palm Oil,Oils & Fats,Zooxo,186311458,97 Sunnyside Court,discontinued,2024-06-23,2024-07-31,2025-02-11,43,63,80,1.8,33,96,56.0
+338077247,Mozzarella Cheese,Dairy,Blogspan,944533755,63464 Jana Court,backordered,2024-06-23,2024-07-07,2025-01-03,58,17,26,7.0,62,89,-191.0
+078585487,Swiss Cheese,Dairy,Meeveo,929916167,6 Susan Alley,continued,2024-06-23,2024-05-16,2024-12-29,64,14,44,8.0,53,33,-44.0
+273870428,Halibut,Seafood,Camido,623122748,1715 Dottie Pass,continued,2024-06-23,2024-11-29,2024-04-09,88,42,68,20.0,92,29,38.0
+797410770,Mushrooms,Fruits & Vegetables,Photospace,677717656,91 Kinsman Terrace,continued,2024-06-24,2025-02-24,2024-03-17,72,87,39,6.0,94,57,68.0
+340863222,Lemon,Fruits & Vegetables,Layo,340179457,867 Merrick Place,discontinued,2024-06-24,2024-12-25,2024-06-05,12,7,48,2.3,66,4,39.0
+931663169,White Tea,Beverages,Viva,211560102,339 Crescent Oaks Plaza,continued,2024-06-24,2025-02-13,2025-01-02,58,81,66,25.0,85,78,94.0
+745489313,Mango,Fruits & Vegetables,Meevee,698327009,1 Judy Street,backordered,2024-06-24,2024-09-20,2025-02-12,99,59,12,5.0,52,57,8.0
+537107630,Rice Flour,Grains & Pulses,Livetube,461719624,996 Thierer Center,backordered,2024-06-25,2024-07-09,2025-01-14,25,95,71,2.0,24,76,-10.0
+641197804,Bell Pepper,Fruits & Vegetables,Jaxbean,534979614,06584 Mendota Avenue,backordered,2024-06-25,2024-03-06,2024-12-29,98,43,9,4.5,86,62,-217.0
+408109261,Green Coffee,Beverages,Cogibox,565541762,3 Raven Court,discontinued,2024-06-26,2024-12-09,2024-05-23,75,47,33,12.5,33,12,28.0
+915531774,Feta Cheese,Dairy,Demivee,749434552,84 Washington Crossing,continued,2024-06-26,2024-09-05,2024-04-12,80,43,80,7.0,64,53,64.0
+391923521,Herbal Tea,Beverages,Dynazzy,740627176,428 Oriole Avenue,discontinued,2024-06-26,2025-02-22,2024-03-16,20,9,12,30.5,46,32,17.0
+638901246,Oatmeal Biscuit,Bakery,Vidoo,292731595,3 Melrose Trail,discontinued,2024-06-27,2024-05-16,2024-10-09,93,50,43,5.0,76,35,30.0
+719544501,Anchovies,Seafood,Quatz,261356134,290 Rusk Avenue,discontinued,2024-06-27,2024-10-08,2024-07-26,66,49,41,10.0,27,37,54.0
+003572313,Avocado Oil,Oils & Fats,Quamba,936196639,0 Oxford Crossing,backordered,2024-06-29,2024-11-26,2024-12-13,10,86,23,10.0,24,52,-37.0
+297567042,Digestive Biscuit,Bakery,Dabvine,204262191,99 Fair Oaks Circle,discontinued,2024-06-29,2024-04-15,2024-05-07,90,52,50,4.0,63,14,-117.0
+925518504,Raw Sugar,Grains & Pulses,Livepath,228365101,461 Bluejay Circle,backordered,2024-06-29,2025-02-22,2024-12-24,19,81,33,1.5,39,85,78.0
+613179944,White Bread,Bakery,Skivee,032205535,21844 Artisan Trail,discontinued,2024-06-29,2024-05-17,2024-10-29,72,20,71,2.5,87,68,-118.0
+032763931,Mango,Fruits & Vegetables,Oyoloo,422248186,081 Bellgrove Place,continued,2024-06-30,2024-09-18,2024-12-20,60,36,28,4.5,26,29,22.0
+022756061,Potato,Fruits & Vegetables,Edgewire,218290398,6891 Mandrake Park,discontinued,2024-06-30,2024-03-26,2024-08-19,26,16,69,1.2,64,79,-12.0
+729700239,Sesame Oil,Oils & Fats,Divanoodle,647523122,73966 Pond Trail,backordered,2024-06-30,2024-07-24,2024-07-18,85,86,21,6.5,78,53,-23.0
+366794670,Bell Pepper,Fruits & Vegetables,Fatz,605087567,5 Warner Court,backordered,2024-06-30,2025-02-22,2025-01-13,90,22,20,4.5,81,88,32.0
+134099040,White Tea,Beverages,Jazzy,343035097,9623 Cottonwood Park,discontinued,2024-06-30,2024-08-05,2025-01-08,35,20,42,25.25,53,56,-9.0
+884080310,Corn Oil,Oils & Fats,Flipopia,910023027,5 Mesta Center,continued,2024-06-30,2024-03-31,2024-08-26,50,40,69,2.5,28,98,-6.0
+573593397,Garlic,Fruits & Vegetables,Twiyo,546591177,81071 West Alley,continued,2024-07-13,2024-10-02,2024-12-19,43,40,30,7.0,95,26,-250.0
+010502246,Grapes,Fruits & Vegetables,Gabspot,804625807,38 Esch Pass,discontinued,2024-07-13,2024-02-25,2024-09-08,99,68,1,5.5,59,16,73.0
+475810363,Parmesan Cheese,Dairy,Tagpad,083592568,8 Dawn Court,continued,2024-07-14,2024-12-05,2025-01-20,99,10,88,12.0,69,98,73.0
+336706797,Mackerel,Seafood,Wikido,740327560,2869 Hudson Drive,discontinued,2024-07-14,2024-08-26,2024-07-05,45,56,64,7.5,35,82,-42.0
+695787930,Brown Rice,Grains & Pulses,Flipbug,377285274,83291 Hansons Crossing,discontinued,2024-07-14,2024-03-18,2024-06-05,44,67,31,2.5,44,72,-134.0
+756724378,Pomegranate,Fruits & Vegetables,Eare,201039525,4 Esch Point,backordered,2024-07-15,2024-11-16,2024-06-05,62,40,86,6.0,45,86,-64.0
+312115803,Oatmeal Biscuit,Bakery,Gigazoom,755039347,492 Shoshone Road,backordered,2024-07-16,2024-08-21,2025-02-07,16,9,32,5.0,50,98,-91.0
+498617823,Coconut,Fruits & Vegetables,Skippad,221520111,26 Graceland Circle,discontinued,2024-07-16,2024-07-13,2024-08-10,99,8,27,5.0,41,50,-96.0
+846240201,Bread Flour,Grains & Pulses,Skaboo,257693792,9 Eastlawn Crossing,backordered,2024-07-17,2024-11-09,2025-01-20,71,77,30,1.5,34,57,-22.0
+669934234,Cucumber,Fruits & Vegetables,Gigazoom,158520491,22 Dexter Trail,backordered,2024-07-18,2025-01-16,2024-06-24,13,60,100,1.8,44,32,-68.0
+009632193,Milk,Dairy,Thoughtsphere,395218484,5030 Moose Junction,discontinued,2024-07-19,2025-02-03,2024-12-23,43,88,33,1.0,84,75,27.0
+994203592,Butter Biscuit,Bakery,Quatz,886475082,206 Pine View Junction,continued,2024-07-19,2024-07-21,2024-11-13,22,24,94,6.0,47,71,11.0
+766237844,Egg (Quail),Dairy,Vinte,844983849,868 Swallow Point,discontinued,2024-07-19,2024-08-23,2024-05-15,29,33,88,0.8,50,35,-51.0
+280038065,Almond Flour,Grains & Pulses,Voonte,425797177,65 Merry Circle,discontinued,2024-07-19,2025-02-16,2025-01-28,79,47,51,9.5,83,69,30.0
+280082951,Broccoli,Fruits & Vegetables,Buzzster,641181480,26 Barnett Junction,discontinued,2024-07-20,2025-01-16,2024-05-20,95,29,28,4.0,52,46,17.0
+454020421,Swiss Cheese,Dairy,Quinu,872016047,36 Longview Street,continued,2024-07-20,2024-12-08,2024-07-14,70,84,72,8.0,71,20,12.0
+739420508,Kale,Fruits & Vegetables,Brightbean,370573553,1034 2nd Point,backordered,2024-07-20,2025-01-14,2024-10-04,61,100,94,4.0,76,2,72.0
+222669291,Sardines,Seafood,Vinder,155500171,111 David Hill,backordered,2024-07-20,2024-03-27,2024-04-08,11,17,59,6.0,69,100,97.0
+060686793,Buttermilk,Dairy,Twitterbeat,949586101,25 Nancy Place,discontinued,2024-07-20,2024-08-06,2024-08-15,39,80,68,2.5,46,54,-45.0
+580638633,Bell Pepper,Fruits & Vegetables,Skimia,219325200,33424 Express Avenue,discontinued,2024-07-21,2024-06-30,2024-09-22,50,3,88,4.5,69,73,-17.0
+274423654,Herbal Tea,Beverages,Yoveo,575442465,67677 Lakewood Gardens Way,continued,2024-07-21,2024-08-26,2024-12-03,59,17,1,30.0,69,82,-6.0
+030439933,Strawberries,Fruits & Vegetables,Yombu,484504126,884 Fieldstone Plaza,backordered,2024-07-21,2025-02-09,2025-02-08,16,23,76,6.1,50,27,-19.0
+991371730,Bread Flour,Grains & Pulses,Skyndu,657973468,4105 Fair Oaks Parkway,continued,2024-07-22,2024-02-28,2024-10-18,62,79,23,1.5,32,80,46.0
+096227119,Haddock,Seafood,Youtags,597813399,665 Sommers Circle,backordered,2024-07-22,2025-01-30,2024-06-15,30,81,99,9.0,99,3,-150.0
+953561566,Grapes,Fruits & Vegetables,Rhynyx,572042098,622 Buena Vista Trail,backordered,2024-07-22,2025-02-21,2025-01-29,13,61,77,5.5,42,18,97.0
+223191377,White Sugar,Grains & Pulses,Skyba,822661796,083 Gulseth Pass,continued,2024-07-23,2024-03-03,2024-06-21,14,16,93,2.0,39,30,57.0
+891814523,Wild Rice,Grains & Pulses,Devbug,547493622,022 Prairie Rose Drive,discontinued,2024-07-23,2024-06-23,2024-12-22,46,6,64,10.0,63,29,23.0
+385559147,Black Coffee,Beverages,Aimbu,353707603,0 Oneill Hill,discontinued,2024-07-23,2024-04-29,2024-03-08,62,23,25,15.5,34,68,54.0
+536674109,Onion,Fruits & Vegetables,Voolith,408004739,992 East Point,continued,2024-07-23,2024-03-21,2024-05-24,16,75,42,2.0,22,46,-100.0
+144898669,All-Purpose Flour,Grains & Pulses,Wikibox,284365158,21629 Burrows Pass,discontinued,2024-07-24,2024-11-05,2024-05-13,54,69,68,1.75,77,56,-109.0
+260318070,Vegetable Oil,Oils & Fats,Trudeo,110964003,5414 Linden Point,backordered,2024-07-25,2024-05-25,2024-04-19,57,99,23,2.0,89,21,27.0
+472212470,Pomegranate,Fruits & Vegetables,Teklist,307807583,60 Messerschmidt Pass,continued,2024-07-25,2024-04-03,2024-10-10,17,45,44,6.0,37,16,76.0
+673824435,Green Beans,Fruits & Vegetables,Fivespan,499010828,92 Bartelt Terrace,continued,2024-07-25,2024-12-21,2024-03-02,99,37,74,2.1,46,46,57.0
+940292717,Broccoli,Fruits & Vegetables,Jetpulse,378789392,071 Nobel Circle,discontinued,2024-07-26,2025-02-06,2024-06-09,40,8,98,4.0,86,12,0.0
+478666589,Egg (Duck),Dairy,Dynazzy,782031075,30880 Barnett Junction,discontinued,2024-07-26,2025-02-03,2024-07-27,41,61,69,1.0,30,100,86.0
+943553070,Tilapia,Seafood,Jabbercube,733939432,116 Spaight Park,discontinued,2024-07-26,2024-07-13,2024-07-23,14,52,80,6.8,64,17,-233.0
+823427339,Vanilla Biscuit,Bakery,Yozio,143259173,317 Anniversary Pass,backordered,2024-07-27,2024-07-31,2024-03-04,80,61,23,5.5,63,75,73.0
+804595950,Arabica Coffee,Beverages,Rhyzio,048662231,5 Killdeer Trail,backordered,2024-07-27,2024-10-02,2024-03-20,74,10,74,20.0,100,66,-19.0
+672486306,Cauliflower,Fruits & Vegetables,Avamm,861736891,05 Bartelt Street,continued,2024-07-27,2024-10-02,2024-12-22,77,54,10,2.5,64,73,34.0
+689738812,Sweet Potato,Fruits & Vegetables,Yodo,319557362,55 Cherokee Circle,discontinued,2024-07-27,2024-06-22,2024-05-24,44,77,45,2.0,89,64,-14.0
+113257396,Mango,Fruits & Vegetables,Skipfire,989407545,387 Jay Point,discontinued,2024-07-28,2024-10-18,2024-03-26,92,46,13,5.0,24,75,28.0
+687616907,Zucchini,Fruits & Vegetables,Brainverse,311993683,9695 Alpine Trail,discontinued,2024-07-28,2024-07-21,2025-02-02,26,18,62,2.5,57,86,-213.0
+625090666,Almond Flour,Grains & Pulses,Brainverse,164191419,1468 Meadow Vale Court,backordered,2024-07-28,2024-05-15,2024-07-03,13,88,7,9.5,24,21,-51.0
+444760390,Lemon,Fruits & Vegetables,Flashspan,485623582,022 Pierstorff Point,continued,2024-07-28,2024-04-27,2024-03-14,90,92,56,2.5,71,13,13.0
+082132058,Sour Cream,Dairy,Babblestorm,131799553,33 Clarendon Hill,continued,2024-07-28,2024-09-07,2024-08-26,43,73,14,4.0,59,65,82.0
+355292933,Broccoli,Fruits & Vegetables,Jabbersphere,575916452,2 School Drive,discontinued,2024-07-28,2024-10-23,2024-07-13,85,54,18,4.0,85,44,-10.0
+243643341,Egg (Turkey),Dairy,Topiclounge,132908513,120 Gale Circle,discontinued,2024-07-29,2024-04-11,2024-09-25,44,84,63,2.5,51,67,48.0
+656441394,Pear,Fruits & Vegetables,Lazz,232801300,582 Dahle Center,continued,2024-07-29,2025-01-06,2025-02-10,26,95,36,4.5,92,14,-31.0
+884013700,Cauliflower,Fruits & Vegetables,Jabberstorm,392996093,39014 Randy Court,discontinued,2024-07-29,2025-02-04,2025-01-20,86,66,24,2.5,30,6,85.0
+474417682,Digestive Biscuit,Bakery,Vimbo,909981236,4247 David Crossing,discontinued,2024-07-29,2024-12-12,2024-11-30,40,91,24,4.0,28,47,80.0
+689772498,Grapes,Fruits & Vegetables,Skinix,262221156,6482 Ramsey Alley,backordered,2024-07-30,2024-05-20,2024-07-21,88,99,41,5.5,93,99,-68.0
+375673218,Almond Flour,Grains & Pulses,Trilia,032574437,153 Caliangt Plaza,backordered,2024-07-30,2024-10-31,2024-07-20,37,47,34,9.5,38,89,-6.0
+879033486,Peanut Oil,Oils & Fats,Twitterbeat,903788463,99 Twin Pines Alley,continued,2024-07-30,2024-09-10,2024-02-29,21,25,39,4.0,79,30,-134.0
+963167600,Bell Pepper,Fruits & Vegetables,Linklinks,766717104,6 Swallow Crossing,discontinued,2024-07-31,2024-07-27,2024-07-07,70,31,55,4.5,23,80,62.0
+008429790,Egg (Goose),Dairy,Oba,370792530,53894 Myrtle Place,backordered,2024-07-31,2025-01-30,2024-12-28,65,94,4,2.5,66,36,-248.0
+961640607,Coconut Oil,Oils & Fats,Browsezoom,156553923,1275 Lawn Center,discontinued,2024-07-31,2024-12-20,2024-10-17,89,79,66,5.0,91,31,45.0
+042402226,Olive Oil,Oils & Fats,Kamba,658426819,504 Green Park,discontinued,2024-08-13,2024-06-28,2024-03-05,47,48,73,6.0,42,51,66.0
+977722336,Pineapple,Fruits & Vegetables,Rooxo,197044404,9 Bartillon Trail,discontinued,2024-08-13,2025-02-03,2024-07-14,70,30,69,3.5,44,42,-21.0
+638225278,Pomegranate,Fruits & Vegetables,Kamba,276361606,5900 Vahlen Avenue,backordered,2024-08-13,2024-12-13,2024-02-27,14,66,1,6.0,86,15,5.0
+199670632,Short Grain Rice,Grains & Pulses,Yombu,904451753,6990 Kings Place,discontinued,2024-08-14,2025-02-04,2024-11-06,53,86,54,3.0,44,3,83.0
+289868001,Pomegranate,Fruits & Vegetables,Kwideo,372812537,4 Old Shore Avenue,continued,2024-08-14,2024-06-15,2024-10-13,65,69,4,6.0,80,26,93.0
+441282185,Jasmine Rice,Grains & Pulses,Katz,790917381,012 Mockingbird Court,backordered,2024-08-14,2024-07-10,2024-12-30,98,20,81,4.75,51,23,68.0
+843277787,Egg (Chicken),Dairy,Bubblemix,975710561,739 Rowland Way,discontinued,2024-08-14,2024-08-26,2024-09-06,83,35,43,0.2,94,68,55.0
+503645828,Coconut,Fruits & Vegetables,Mydo,172396309,772 Golf Course Junction,continued,2024-08-15,2024-06-14,2024-12-23,89,57,92,5.0,38,16,28.0
+653682479,Egg (Turkey),Dairy,Browsedrive,995708162,231 Merry Pass,continued,2024-08-15,2024-03-10,2024-10-07,23,21,59,2.4,81,8,58.0
+172535688,Greek Yogurt,Dairy,Shufflester,426382086,7 Hooker Way,backordered,2024-08-15,2024-07-07,2024-06-20,39,55,39,3.0,47,59,90.0
+292051132,Sushi Rice,Grains & Pulses,Jaxnation,380371699,48 Del Sol Trail,discontinued,2024-08-16,2024-06-29,2024-09-19,22,72,70,4.5,32,19,-26.0
+648548664,Peanut Oil,Oils & Fats,Pixoboo,198937698,76 Independence Drive,discontinued,2024-08-16,2025-01-25,2024-08-30,79,3,36,4.0,46,29,41.0
+666279752,Trout,Seafood,Jabbertype,878396400,08 Randy Junction,continued,2024-08-17,2024-10-01,2024-09-03,49,73,48,12.0,52,62,37.0
+627957801,Palm Oil,Oils & Fats,Buzzshare,083120872,94451 Arkansas Park,backordered,2024-08-17,2024-07-28,2024-11-23,35,41,84,1.8,62,14,-19.0
+406830283,White Sugar,Grains & Pulses,Topicshots,270609944,322 Birchwood Center,continued,2024-08-17,2024-05-04,2024-05-23,27,64,78,2.0,57,4,77.0
+874238486,Powdered Sugar,Grains & Pulses,Mybuzz,129474739,5 Homewood Street,discontinued,2024-08-17,2024-03-21,2024-03-09,63,4,46,2.5,40,69,93.0
+164995059,Pear,Fruits & Vegetables,Centizu,090906360,3 Hooker Way,discontinued,2024-08-18,2024-11-19,2024-12-20,77,20,5,4.5,61,62,-73.0
+053342923,Bread Flour,Grains & Pulses,Browsezoom,417726271,8 Surrey Pass,discontinued,2024-08-18,2024-11-22,2024-05-16,14,74,71,1.5,37,22,-2.0
+748453299,Green Tea,Beverages,Oyoyo,217921000,2 Petterle Road,continued,2024-08-18,2025-02-12,2024-04-29,63,92,26,8.0,93,99,41.0
+102497928,Black Rice,Grains & Pulses,Voomm,698610313,57598 Russell Center,backordered,2024-08-18,2024-04-03,2024-11-03,85,4,75,6.5,95,70,-6.0
+087258156,Tilapia,Seafood,Flipopia,321964714,73397 Steensland Circle,continued,2024-08-18,2024-11-10,2024-03-15,59,59,10,7.0,57,50,26.0
+412408856,Haddock,Seafood,Snaptags,281627486,8 Autumn Leaf Drive,discontinued,2024-08-18,2024-05-29,2025-01-10,79,53,12,9.0,45,95,12.0
+352579312,Parmesan Cheese,Dairy,Photospace,359274986,9463 Northland Court,backordered,2024-08-18,2024-10-12,2024-04-06,80,100,48,12.0,100,28,-111.0
+139808804,Sweet Potato,Fruits & Vegetables,Photospace,206081290,41 Nelson Center,backordered,2024-08-19,2024-10-01,2025-02-10,100,3,32,2.0,98,91,72.0
+689776854,Apricot,Fruits & Vegetables,Blognation,738309633,2633 Shasta Alley,backordered,2024-08-19,2024-07-29,2024-03-02,90,30,42,5.0,76,69,7.0
+907739557,Butter,Dairy,Npath,021655779,904 Del Mar Crossing,continued,2024-08-20,2024-06-30,2024-06-12,85,28,21,3.0,45,89,9.0
+893289019,Bread Flour,Grains & Pulses,Jazzy,630570462,33774 Carberry Circle,continued,2024-08-20,2024-04-20,2024-12-08,63,43,8,1.5,55,72,-98.0
+590752457,Egg (Goose),Dairy,Dynava,187332453,2 Barby Lane,discontinued,2024-08-21,2025-02-03,2024-11-10,97,26,15,2.5,33,58,-31.0
+316276025,White Bread,Bakery,Ozu,170848551,44638 Corscot Lane,backordered,2024-08-22,2024-09-03,2025-01-20,56,62,64,2.5,56,73,-76.0
+288249017,Trout,Seafood,Flipbug,937123934,4 Jay Terrace,discontinued,2024-08-22,2024-06-08,2024-06-14,19,94,17,11.5,96,74,-30.0
+068585680,Sesame Oil,Oils & Fats,Miboo,632312829,49476 Tony Hill,discontinued,2024-08-22,2025-01-12,2025-01-16,15,34,57,6.5,49,96,23.0
+387327667,Pineapple,Fruits & Vegetables,Photojam,886633393,3645 Ridge Oak Drive,backordered,2024-08-23,2024-10-13,2024-09-28,18,52,22,3.5,42,32,-96.0
+852373505,Green Tea,Beverages,Thoughtsphere,922961266,20073 Northfield Way,discontinued,2024-08-23,2024-11-13,2024-11-03,88,50,88,8.0,78,28,24.0
+731176105,Brown Rice,Grains & Pulses,Skipfire,747297466,955 4th Road,discontinued,2024-08-23,2024-09-17,2025-01-23,44,48,77,2.5,67,79,64.0
+464365351,Green Tea,Beverages,Fiveclub,074710050,226 Calypso Road,continued,2024-08-24,2024-09-30,2024-04-16,80,54,21,8.5,81,37,-18.0
+563035256,Wild Rice,Grains & Pulses,Babbleopia,298215359,3 Hermina Circle,continued,2024-08-24,2024-11-17,2024-03-21,58,24,25,10.0,75,26,54.0
+573941587,Bread Flour,Grains & Pulses,Roomm,595957531,561 Blue Bill Park Road,discontinued,2024-08-25,2025-02-17,2024-10-30,57,63,41,1.5,53,94,65.0
+519349117,Sardines,Seafood,Linklinks,343899922,05944 Scott Parkway,continued,2024-08-25,2024-07-28,2025-01-31,30,55,4,6.0,56,31,-77.0
+773771659,Almond Flour,Grains & Pulses,Thoughtblab,646743902,6 Acker Street,continued,2024-08-25,2025-01-22,2024-06-19,74,22,91,9.5,24,12,45.0
+272622437,Swiss Cheese,Dairy,Skidoo,051812682,739 Swallow Road,continued,2024-08-26,2024-11-20,2024-10-09,80,9,29,8.1,54,62,50.0
+710854290,Cucumber,Fruits & Vegetables,Eire,265933478,2 Basil Street,continued,2024-08-26,2024-10-07,2024-12-04,31,98,72,1.8,91,29,-15.0
+876751506,Strawberries,Fruits & Vegetables,Skalith,216978128,60241 Portage Point,discontinued,2024-08-26,2024-12-07,2024-05-21,31,89,7,5.9,46,54,68.0
+772242227,Almond Flour,Grains & Pulses,Eimbee,892265813,5426 Fordem Pass,backordered,2024-08-26,2024-09-30,2024-10-26,75,46,75,9.5,43,77,-17.0
+946584945,Sweet Potato,Fruits & Vegetables,Skibox,091530763,15 Veith Circle,backordered,2024-08-27,2025-02-12,2024-05-08,65,10,81,2.0,71,61,-79.0
+155623712,Cauliflower,Fruits & Vegetables,Yakitri,532437800,1 Hudson Hill,discontinued,2024-08-27,2024-06-20,2024-10-28,33,89,15,2.5,90,52,14.0
+985467398,Yogurt,Dairy,Thoughtworks,379212953,15658 Talisman Lane,backordered,2024-08-27,2024-05-03,2024-04-17,80,69,71,1.75,41,43,42.0
+361770573,Egg (Turkey),Dairy,Oyondu,626870951,35 Portage Road,discontinued,2024-08-27,2024-10-02,2024-04-13,92,1,23,2.5,78,36,-5.0
+393583340,Basmati Rice,Grains & Pulses,Yamia,868414440,308 Doe Crossing Pass,discontinued,2024-08-27,2024-03-25,2024-03-14,71,60,62,4.5,60,63,54.0
+117331756,Rice Flour,Grains & Pulses,Mynte,279708649,127 Eliot Road,backordered,2024-08-28,2024-11-27,2025-02-24,52,81,53,2.0,95,88,-5.0
+010262772,Blueberries,Fruits & Vegetables,Buzzbean,205320144,3 Bunting Point,discontinued,2024-08-28,2024-06-11,2024-05-27,40,61,47,10.0,76,10,7.0
+841987276,Peanut Oil,Oils & Fats,Eidel,341586684,6 Harbort Hill,continued,2024-08-29,2025-01-16,2024-06-15,60,88,65,4.0,94,15,87.0
+568100550,Mackerel,Seafood,Janyx,941459423,376 Reinke Court,backordered,2024-08-29,2024-12-02,2024-09-04,71,7,6,7.5,52,68,84.0
+407518635,Pineapple,Fruits & Vegetables,Yamia,488783021,3 Ronald Regan Center,discontinued,2024-08-30,2024-10-17,2024-03-05,44,80,84,3.4,96,68,-31.0
+143059690,Sushi Rice,Grains & Pulses,Dabshots,134579946,43107 Schlimgen Circle,continued,2024-08-30,2024-06-29,2024-03-10,19,17,14,4.3,58,23,29.0
+837270814,Basmati Rice,Grains & Pulses,Yodo,796561990,28 Boyd Pass,continued,2024-08-30,2024-06-08,2024-06-05,11,87,64,4.5,29,6,60.0
+710159181,Pomegranate,Fruits & Vegetables,Tagopia,561969896,62238 Mallory Place,continued,2024-08-30,2024-08-27,2024-10-26,22,35,55,6.0,41,27,79.0
+515725497,Orange,Fruits & Vegetables,Kanoodle,430353382,9516 Burrows Circle,discontinued,2024-08-31,2025-02-13,2024-04-28,15,44,88,3.0,56,12,34.0
+067974963,Pomegranate,Fruits & Vegetables,Innojam,418210197,1008 Welch Street,continued,2024-08-31,2024-08-15,2024-08-16,52,8,37,6.0,38,81,79.0
+421415718,Cheese,Dairy,Mydeo,676623444,1700 Briar Crest Parkway,backordered,2024-09-13,2025-01-06,2024-12-26,100,31,43,9.0,88,52,-113.0
+376060510,Milk,Dairy,Jabbercube,094896314,53 Homewood Alley,continued,2024-09-13,2024-06-09,2024-11-09,18,64,86,1.0,73,38,41.0
+444809446,Sunflower Oil,Oils & Fats,Aibox,350006015,43591 East Road,continued,2024-09-13,2025-02-19,2024-03-14,39,13,13,2.5,84,93,48.0
+782370277,Black Tea,Beverages,Brainbox,503145433,79 Cardinal Court,continued,2024-09-15,2024-09-23,2025-01-13,46,27,76,5.0,64,96,-11.0
+879970228,Watermelon,Fruits & Vegetables,Topicblab,551566528,26240 Maple Wood Place,discontinued,2024-09-15,2024-10-24,2024-12-27,71,4,37,3.0,81,25,-50.0
+426743917,Whole Wheat Flour,Grains & Pulses,Pixonyx,260804944,78 Forest Dale Road,backordered,2024-09-15,2024-04-20,2024-06-06,41,76,47,2.65,50,50,69.0
+281857303,Robusta Coffee,Beverages,Yozio,971430641,25696 Westerfield Alley,continued,2024-09-15,2025-01-21,2024-10-22,59,31,3,10.0,48,51,0.0
+458522446,Salmon,Seafood,Fanoodle,375675710,56 Petterle Circle,continued,2024-09-15,2024-06-08,2024-11-29,73,12,28,15.0,89,92,-6.0
+568316199,Salmon,Seafood,Innojam,996802351,1247 Hoard Hill,continued,2024-09-16,2024-02-25,2024-08-14,49,48,62,15.0,96,37,-3.0
+825384809,Cabbage,Fruits & Vegetables,Twitternation,743572990,700 Northland Crossing,backordered,2024-09-16,2024-11-05,2024-10-24,83,61,4,1.0,35,7,61.0
+876980944,Banana,Fruits & Vegetables,Vinder,737170190,8 Heffernan Point,continued,2024-09-17,2024-08-27,2025-02-02,56,12,59,98.43,35,16,80.0
+309642694,Peas,Fruits & Vegetables,Edgeclub,429762737,39 Dovetail Terrace,continued,2024-09-18,2024-05-12,2024-06-30,48,72,55,3.0,51,41,54.0
+093357793,Powdered Sugar,Grains & Pulses,Topicshots,969187047,5649 Vidon Plaza,continued,2024-09-18,2024-09-07,2024-06-01,66,19,20,2.4,30,49,20.0
+990335661,Rice Flour,Grains & Pulses,Zava,324586452,289 Longview Point,continued,2024-09-19,2025-01-27,2024-09-25,42,3,21,2.0,35,22,-63.0
+901287973,Black Rice,Grains & Pulses,Shuffletag,914176283,46989 Crescent Oaks Junction,backordered,2024-09-19,2024-10-31,2024-03-13,49,3,7,6.25,75,46,37.0
+527976961,Tilapia,Seafood,Plajo,757938978,13799 Quincy Park,discontinued,2024-09-19,2024-06-07,2024-06-17,46,80,88,7.0,62,22,39.0
+392325341,Arborio Rice,Grains & Pulses,Feedmix,233192681,05433 Towne Terrace,discontinued,2024-09-21,2024-10-24,2025-02-15,20,34,74,4.5,50,83,65.0
+469316897,Cream,Dairy,Meevee,229468052,44 Kensington Road,discontinued,2024-09-21,2024-06-15,2024-09-15,29,32,26,2.5,64,85,-66.0
+569378675,Cream,Dairy,Trilith,379963243,668 Claremont Place,discontinued,2024-09-21,2024-05-31,2024-12-08,62,91,14,2.5,41,77,-33.0
+548306971,Tilapia,Seafood,Dynava,940066480,674 Ryan Alley,backordered,2024-09-21,2024-12-25,2024-05-18,100,61,21,7.0,85,79,-88.0
+908659150,Powdered Sugar,Grains & Pulses,Kazu,580534926,00029 Fisk Point,discontinued,2024-09-22,2024-05-12,2024-07-09,28,24,97,2.5,82,5,7.0
+428876557,Long Grain Rice,Grains & Pulses,Geba,490922735,61224 Northridge Avenue,continued,2024-09-23,2024-07-10,2024-03-30,26,82,19,1.5,76,88,94.0
+941905193,Carrot,Fruits & Vegetables,Quinu,957782888,24385 Prentice Plaza,discontinued,2024-09-23,2024-11-21,2024-04-09,67,68,50,1.5,67,82,-16.0
+004409568,Blueberries,Fruits & Vegetables,Kamba,436052448,052 Northland Trail,continued,2024-09-23,2024-09-04,2024-12-20,53,98,25,10.0,55,51,-22.0
+742943760,Peanut Oil,Oils & Fats,Babblestorm,812336894,0109 Stang Terrace,discontinued,2024-09-23,2024-11-30,2024-11-27,49,17,54,4.0,45,96,7.0
+668066051,Yogurt,Dairy,Devpulse,198755642,8 Kensington Place,backordered,2024-09-23,2024-07-01,2024-05-23,63,12,82,1.7,56,31,-113.0
+818442979,Broccoli,Fruits & Vegetables,Realblab,025757332,16 Elgar Point,discontinued,2024-09-24,2025-01-15,2024-05-11,73,87,46,4.0,47,67,45.0
+800728774,Tuna,Seafood,Viva,612228413,239 Anderson Court,discontinued,2024-09-24,2024-07-06,2024-10-15,89,95,41,18.0,76,96,-43.0
+800391261,Strawberries,Fruits & Vegetables,Skimia,379947932,1 Havey Park,discontinued,2024-09-25,2024-11-28,2024-06-12,26,97,12,6.0,94,58,-26.0
+582190241,Avocado Oil,Oils & Fats,Twitterwire,425231857,938 Garrison Court,discontinued,2024-09-26,2024-05-12,2024-06-04,50,36,81,10.0,27,6,38.0
+945288088,Haddock,Seafood,Zoovu,688855553,21379 Stoughton Junction,continued,2024-09-26,2024-07-24,2024-03-08,43,7,63,9.0,66,71,78.0
+953490828,Feta Cheese,Dairy,Avaveo,439772343,60 Towne Hill,continued,2024-09-27,2024-08-29,2025-02-06,97,57,84,7.0,95,28,-8.0
+030611344,Trout,Seafood,Izio,852115357,96420 Briar Crest Lane,continued,2024-09-27,2024-07-19,2024-06-27,98,65,76,12.0,62,47,71.0
+679845368,Parmesan Cheese,Dairy,Yakidoo,397147313,0 Fordem Place,backordered,2024-09-27,2024-10-04,2024-07-28,52,56,34,12.0,31,69,24.0
+447821395,Raw Sugar,Grains & Pulses,Flipopia,541329762,365 Vera Terrace,continued,2024-09-29,2024-06-26,2024-11-17,72,72,68,1.5,39,78,-123.0
+759279108,Cabbage,Fruits & Vegetables,Topdrive,274067972,43 Washington Street,discontinued,2024-09-29,2024-06-17,2024-07-02,24,32,17,1.0,55,72,-100.0
+786144402,Green Beans,Fruits & Vegetables,Gigazoom,510144287,37 Browning Trail,discontinued,2024-09-30,2025-02-14,2024-04-25,81,99,28,2.0,20,85,-31.0
+019035373,Strawberries,Fruits & Vegetables,Lazz,379020286,32525 Marquette Park,discontinued,2024-09-30,2024-06-20,2024-06-21,94,77,89,6.0,40,84,-325.0
